@@ -28,5 +28,4 @@ You will see message by message what is happening. (When it's night, nothing is 
 It is 1st day. 2 AM and I'm in good mood. I'm sleeping right now. There is 0 tasks done and 700 tasks left.
 It is 1st day. 3 AM and I'm in good mood. I'm sleeping right now. There is 0 tasks done and 700 tasks left.
 ~~~
-## Example of simulation:
-You can see it in the [log](log.txt) file
+Example of simulation you can see in the [log](log.txt) file.
