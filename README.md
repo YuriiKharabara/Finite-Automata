@@ -1,6 +1,7 @@
 # Finite-Automata
 ## This is my lab task 4 for Dyscrete math based on Finite Automata.
 My program simulates one month of making any big project. Here I have to make 700 small tasks per month to finish the project. (Small tasks means anything from typing the text to creating an algorithm. It doesn't matter. 700 small tasks = one big project.) In the end of the simulation it will print whether project was finished or you failed it because of some bad events.
+You can find the code [here](simulation.py).
 
 ### Daily routine is:
 1. Sleeping (from 0 AM to 8 AM)
