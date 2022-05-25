@@ -17,7 +17,7 @@ You can find the code [here](simulation.py).
 3. The beer is over! (It also makes you sad, and creates delay in making your project.)
 
 ## How to run the program:
-~~~bash
+~~~python
 simulator_name = Simulator()
 simulator_name.run()
 ~~~
