@@ -3,8 +3,6 @@
 import random
 import time
 
-from matplotlib.pyplot import get
-
 
 class Simulator:
     """Simulator class"""
