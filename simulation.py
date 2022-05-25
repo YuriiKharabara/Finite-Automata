@@ -148,7 +148,7 @@ class Phase:
         """check whether the status should be studying"""
         if hour >= 8 and hour <= 17:
             status.current_state = 'study'
-            status.tasks_done += 3
+            status.tasks_done += random.randint(1, 5)
             self.this_phase = True
             self.flag = True
 
