@@ -20,12 +20,12 @@ class Simulator:
     def run(self):
         """run the simulation
         """
+
         print('This is a simulation of me completing some project.\
  I have to make 700 tasks to complete project successfully. I do 10 task during studying, \
 and lose time if some bad events happens.')
-
         for i in [10,9,8,7,6,5,4,3,2,1,0]:
-            print(f'\rWe will begin in {i} seconds', end = '')
+            print(f'\rWe will begin in {i} seconds', end=' ')
             time.sleep(1)
         print(f"\n\n{' '*10}Let's go!\n\n")
         
@@ -42,7 +42,7 @@ and lose time if some bad events happens.')
                 print('\n\nTask completed successfully\n\n')
                 return True
                 break
-            print(self, end='')
+            print(self, end ='')
             self.previous_line = '\n' + str(self)[1:]
             # print()
 
@@ -148,7 +148,7 @@ class Phase:
         """check whether the status should be studying"""
         if hour >= 8 and hour <= 17:
             status.current_state = 'study'
-            status.tasks_done += random.randint(1, 5)
+            status.tasks_done += random.randint(3, 6)
             self.this_phase = True
             self.flag = True
 
@@ -178,9 +178,10 @@ class Phase:
 
     def air_alarm_failure(self, hour, status):
         """check whether air alarm should end"""
+
         if random.random() < 0.6:
             status.current_state = 'end of alarm'
-            print('\nAir alert ended!', end ='')
+            print('\nAir alert ended!', end = '')
             
             
 
@@ -192,21 +193,24 @@ class Event:
         if random.random() < 0.1 and status.current_state != 'hid':
             status.current_state = 'hid'
             status.mood = False
-            print('\nAIR ALERT!', end='')
+            print('\nAIR ALERT!')
 
     def feedback(self, hour, status):
         """check whether feedback should be done"""
-        if random.random() < 0.07 and (hour >= 8 or hour <= 1):
+
+        if random.random() < 0.1 and (hour >= 8 or hour <= 1):
             status.mood = False
             if status.tasks_done >= 5:
                 status.tasks_done -= 5  # delay because of the bad mood
             print('\nOh, bad grade for test :( Delay because of the bad mood', end='')
-        elif hour >= 8 or hour <= 1:
-            print('\nHaha, good grade for test :)', end ='')
+            return None
+        elif random.random() < 0.2 and hour >= 8 or hour <= 1:
+            print('\nHaha, good grade for test :)')
             status.mood = True
 
     def beer_ended(self, hour, status):
         """check whether beer ended"""
+
         if random.random() < 0.1 and status.current_state == 'beer':
             if status.tasks_done >= 10:
                 status.tasks_done -= 10  # delay because beer has ended

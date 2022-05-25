@@ -1,0 +1,1430 @@
+This is a simulation of me completing some project. I have to make 700 tasks to complete project successfully. I do 10 task during studying, and lose time if some bad events happens.
+We will begin in 10 seconds
+We will begin in 9 seconds
+We will begin in 8 seconds
+We will begin in 7 seconds
+We will begin in 6 seconds
+We will begin in 5 seconds
+We will begin in 4 seconds
+We will begin in 3 seconds
+We will begin in 2 seconds
+We will begin in 1 seconds
+We will begin in 0 seconds
+
+          Let's go!
+
+
+It is 1th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 0 tasks done and 700 tasks left.
+It is 1th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 0 tasks done and 700 tasks left.
+It is 1th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 0 tasks done and 700 tasks left.
+It is 1th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 0 tasks done and 700 tasks left.
+It is 1th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 0 tasks done and 700 tasks left.
+It is 1th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 0 tasks done and 700 tasks left.
+It is 1th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 0 tasks done and 700 tasks left.
+It is 1th day. 8 AM and I'm in good mood. I'm eating right now. There is 0 tasks done and 700 tasks left.
+Oh, bad grade for test :( Delay because of the bad mood
+It is 1th day. 9 AM and I'm in bad mood. I'm studying right now. There is 4 tasks done and 696 tasks left.
+It is 1th day. 10 AM and I'm in bad mood. I'm studying right now. There is 6 tasks done and 694 tasks left.
+It is 1th day. 11 AM and I'm in bad mood. I'm studying right now. There is 10 tasks done and 690 tasks left.
+It is 1th day. 12 AM and I'm in bad mood. I'm studying right now. There is 14 tasks done and 686 tasks left.
+It is 1th day. 1 PM and I'm in bad mood. I'm studying right now. There is 17 tasks done and 683 tasks left.
+It is 1th day. 2 PM and I'm in bad mood. I'm studying right now. There is 20 tasks done and 680 tasks left.
+It is 1th day. 3 PM and I'm in bad mood. I'm eating right now. There is 20 tasks done and 680 tasks left.
+It is 1th day. 4 PM and I'm in bad mood. I'm studying right now. There is 22 tasks done and 678 tasks left.
+It is 1th day. 5 PM and I'm in bad mood. I'm studying right now. There is 23 tasks done and 677 tasks left.
+Oh, bad grade for test :( Delay because of the bad mood
+It is 1th day. 6 PM and I'm in bad mood. I'm studying right now. There is 19 tasks done and 681 tasks left.
+It is 1th day. 7 PM and I'm in bad mood. I'm walking right now. There is 19 tasks done and 681 tasks left.
+It is 1th day. 8 PM and I'm in bad mood. I'm walking right now. There is 19 tasks done and 681 tasks left.
+It is 1th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 19 tasks done and 681 tasks left.
+It is 1th day. 10 PM and I'm in bad mood. I'm eating right now. There is 19 tasks done and 681 tasks left.
+It is 1th day. 11 PM and I'm in bad mood. It's time for whiskey. right now. There is 19 tasks done and 681 tasks left.
+It is 1th day. 0 PM and I'm in bad mood. It's time for whiskey. right now. There is 19 tasks done and 681 tasks left.
+Sweet dreams!
+It is 2th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 19 tasks done and 681 tasks left.
+It is 2th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 19 tasks done and 681 tasks left.
+It is 2th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 19 tasks done and 681 tasks left.
+It is 2th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 19 tasks done and 681 tasks left.
+It is 2th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 19 tasks done and 681 tasks left.
+It is 2th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 19 tasks done and 681 tasks left.
+It is 2th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 19 tasks done and 681 tasks left.
+It is 2th day. 8 AM and I'm in good mood. I'm eating right now. There is 19 tasks done and 681 tasks left.
+It is 2th day. 9 AM and I'm in good mood. I'm studying right now. There is 22 tasks done and 678 tasks left.
+It is 2th day. 10 AM and I'm in good mood. I'm studying right now. There is 26 tasks done and 674 tasks left.
+It is 2th day. 11 AM and I'm in good mood. I'm studying right now. There is 28 tasks done and 672 tasks left.
+It is 2th day. 12 AM and I'm in good mood. I'm studying right now. There is 29 tasks done and 671 tasks left.
+It is 2th day. 1 PM and I'm in good mood. I'm studying right now. There is 31 tasks done and 669 tasks left.
+It is 2th day. 2 PM and I'm in good mood. I'm studying right now. There is 33 tasks done and 667 tasks left.
+It is 2th day. 3 PM and I'm in good mood. I'm eating right now. There is 33 tasks done and 667 tasks left.
+It is 2th day. 4 PM and I'm in good mood. I'm studying right now. There is 36 tasks done and 664 tasks left.
+It is 2th day. 5 PM and I'm in good mood. I'm studying right now. There is 41 tasks done and 659 tasks left.
+It is 2th day. 6 PM and I'm in good mood. I'm studying right now. There is 45 tasks done and 655 tasks left.
+It is 2th day. 7 PM and I'm in good mood. I'm walking right now. There is 45 tasks done and 655 tasks left.
+It is 2th day. 8 PM and I'm in good mood. I'm walking right now. There is 45 tasks done and 655 tasks left.
+Oh, bad grade for test :( Delay because of the bad mood
+It is 2th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 40 tasks done and 660 tasks left.
+It is 2th day. 10 PM and I'm in bad mood. I'm eating right now. There is 40 tasks done and 660 tasks left.
+It is 2th day. 11 PM and I'm in bad mood. It's time for whiskey. right now. There is 40 tasks done and 660 tasks left.
+Oh, bad grade for test :( Delay because of the bad mood
+It is 2th day. 0 PM and I'm in bad mood. It's time for whiskey. right now. There is 35 tasks done and 665 tasks left.
+Sweet dreams!
+It is 3th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 35 tasks done and 665 tasks left.
+It is 3th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 35 tasks done and 665 tasks left.
+It is 3th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 35 tasks done and 665 tasks left.
+It is 3th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 35 tasks done and 665 tasks left.
+It is 3th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 35 tasks done and 665 tasks left.
+It is 3th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 35 tasks done and 665 tasks left.
+It is 3th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 35 tasks done and 665 tasks left.
+It is 3th day. 8 AM and I'm in good mood. I'm eating right now. There is 35 tasks done and 665 tasks left.
+It is 3th day. 9 AM and I'm in good mood. I'm studying right now. There is 39 tasks done and 661 tasks left.
+It is 3th day. 10 AM and I'm in good mood. I'm studying right now. There is 41 tasks done and 659 tasks left.
+It is 3th day. 11 AM and I'm in good mood. I'm studying right now. There is 44 tasks done and 656 tasks left.
+It is 3th day. 12 AM and I'm in good mood. I'm studying right now. There is 45 tasks done and 655 tasks left.
+It is 3th day. 1 PM and I'm in good mood. I'm studying right now. There is 49 tasks done and 651 tasks left.
+It is 3th day. 2 PM and I'm in good mood. I'm studying right now. There is 54 tasks done and 646 tasks left.
+Haha, good grade for test :)
+It is 3th day. 3 PM and I'm in good mood. I'm eating right now. There is 54 tasks done and 646 tasks left.
+It is 3th day. 4 PM and I'm in good mood. I'm studying right now. There is 55 tasks done and 645 tasks left.
+It is 3th day. 5 PM and I'm in good mood. I'm studying right now. There is 58 tasks done and 642 tasks left.
+It is 3th day. 6 PM and I'm in good mood. I'm studying right now. There is 60 tasks done and 640 tasks left.
+It is 3th day. 7 PM and I'm in good mood. I'm walking right now. There is 60 tasks done and 640 tasks left.
+Oh, bad grade for test :( Delay because of the bad mood
+It is 3th day. 8 PM and I'm in bad mood. I'm walking right now. There is 55 tasks done and 645 tasks left.
+It is 3th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 55 tasks done and 645 tasks left.
+AIR ALERT!
+It is 3th day. 10 PM and I'm in bad mood. I'm hiding right now. There is 55 tasks done and 645 tasks left.
+Air alert ended!
+AIR ALERT!
+It is 3th day. 11 PM and I'm in bad mood. I'm hiding right now. There is 55 tasks done and 645 tasks left.
+Air alert ended!
+It is 3th day. 0 PM and I'm in bad mood. It's time for whiskey. right now. There is 55 tasks done and 645 tasks left.
+Sweet dreams!
+It is 4th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 55 tasks done and 645 tasks left.
+It is 4th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 55 tasks done and 645 tasks left.
+It is 4th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 55 tasks done and 645 tasks left.
+It is 4th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 55 tasks done and 645 tasks left.
+It is 4th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 55 tasks done and 645 tasks left.
+It is 4th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 55 tasks done and 645 tasks left.
+It is 4th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 55 tasks done and 645 tasks left.
+AIR ALERT!
+It is 4th day. 8 AM and I'm in bad mood. I'm hiding right now. There is 55 tasks done and 645 tasks left.
+Air alert ended!
+It is 4th day. 9 AM and I'm in bad mood. I'm studying right now. There is 57 tasks done and 643 tasks left.
+It is 4th day. 10 AM and I'm in bad mood. I'm studying right now. There is 59 tasks done and 641 tasks left.
+It is 4th day. 11 AM and I'm in bad mood. I'm studying right now. There is 61 tasks done and 639 tasks left.
+It is 4th day. 12 AM and I'm in bad mood. I'm studying right now. There is 62 tasks done and 638 tasks left.
+It is 4th day. 1 PM and I'm in bad mood. I'm studying right now. There is 63 tasks done and 637 tasks left.
+It is 4th day. 2 PM and I'm in bad mood. I'm studying right now. There is 68 tasks done and 632 tasks left.
+It is 4th day. 3 PM and I'm in bad mood. I'm eating right now. There is 68 tasks done and 632 tasks left.
+It is 4th day. 4 PM and I'm in bad mood. I'm studying right now. There is 72 tasks done and 628 tasks left.
+It is 4th day. 5 PM and I'm in bad mood. I'm studying right now. There is 77 tasks done and 623 tasks left.
+It is 4th day. 6 PM and I'm in bad mood. I'm studying right now. There is 79 tasks done and 621 tasks left.
+Haha, good grade for test :)
+It is 4th day. 7 PM and I'm in good mood. I'm walking right now. There is 79 tasks done and 621 tasks left.
+It is 4th day. 8 PM and I'm in good mood. I'm walking right now. There is 79 tasks done and 621 tasks left.
+It is 4th day. 9 PM and I'm in good mood. It's time for family. right now. There is 79 tasks done and 621 tasks left.
+It is 4th day. 10 PM and I'm in good mood. I'm eating right now. There is 79 tasks done and 621 tasks left.
+It is 4th day. 11 PM and I'm in good mood. It's time for beer. right now. There is 79 tasks done and 621 tasks left.
+It is 4th day. 0 PM and I'm in good mood. It's time for beer. right now. There is 79 tasks done and 621 tasks left.
+Sweet dreams!
+AIR ALERT!
+It is 5th day. 1 AM and I'm in bad mood. I'm hiding right now. There is 79 tasks done and 621 tasks left.
+Air alert ended!
+It is 5th day. 2 AM and I'm in bad mood. I'm sleeping right now. There is 79 tasks done and 621 tasks left.
+It is 5th day. 3 AM and I'm in bad mood. I'm sleeping right now. There is 79 tasks done and 621 tasks left.
+It is 5th day. 4 AM and I'm in bad mood. I'm sleeping right now. There is 79 tasks done and 621 tasks left.
+It is 5th day. 5 AM and I'm in bad mood. I'm sleeping right now. There is 79 tasks done and 621 tasks left.
+AIR ALERT!
+It is 5th day. 6 AM and I'm in bad mood. I'm hiding right now. There is 79 tasks done and 621 tasks left.
+Air alert ended!
+It is 5th day. 7 AM and I'm in bad mood. I'm sleeping right now. There is 79 tasks done and 621 tasks left.
+It is 5th day. 8 AM and I'm in bad mood. I'm eating right now. There is 79 tasks done and 621 tasks left.
+It is 5th day. 9 AM and I'm in bad mood. I'm studying right now. There is 82 tasks done and 618 tasks left.
+It is 5th day. 10 AM and I'm in bad mood. I'm studying right now. There is 86 tasks done and 614 tasks left.
+It is 5th day. 11 AM and I'm in bad mood. I'm studying right now. There is 87 tasks done and 613 tasks left.
+AIR ALERT!
+It is 5th day. 12 AM and I'm in bad mood. I'm hiding right now. There is 91 tasks done and 609 tasks left.
+It is 5th day. 1 PM and I'm in bad mood. I'm hiding right now. There is 91 tasks done and 609 tasks left.
+Haha, good grade for test :)
+It is 5th day. 2 PM and I'm in good mood. I'm hiding right now. There is 91 tasks done and 609 tasks left.
+Air alert ended!
+It is 5th day. 3 PM and I'm in good mood. I'm eating right now. There is 91 tasks done and 609 tasks left.
+It is 5th day. 4 PM and I'm in good mood. I'm studying right now. There is 92 tasks done and 608 tasks left.
+It is 5th day. 5 PM and I'm in good mood. I'm studying right now. There is 94 tasks done and 606 tasks left.
+It is 5th day. 6 PM and I'm in good mood. I'm studying right now. There is 96 tasks done and 604 tasks left.
+It is 5th day. 7 PM and I'm in good mood. I'm walking right now. There is 96 tasks done and 604 tasks left.
+It is 5th day. 8 PM and I'm in good mood. I'm walking right now. There is 96 tasks done and 604 tasks left.
+Oh, bad grade for test :( Delay because of the bad mood
+It is 5th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 91 tasks done and 609 tasks left.
+It is 5th day. 10 PM and I'm in bad mood. I'm eating right now. There is 91 tasks done and 609 tasks left.
+It is 5th day. 11 PM and I'm in bad mood. It's time for whiskey. right now. There is 91 tasks done and 609 tasks left.
+It is 5th day. 0 PM and I'm in bad mood. It's time for whiskey. right now. There is 91 tasks done and 609 tasks left.
+Sweet dreams!
+Haha, good grade for test :)
+It is 6th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 91 tasks done and 609 tasks left.
+It is 6th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 91 tasks done and 609 tasks left.
+It is 6th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 91 tasks done and 609 tasks left.
+AIR ALERT!
+It is 6th day. 4 AM and I'm in bad mood. I'm hiding right now. There is 91 tasks done and 609 tasks left.
+It is 6th day. 5 AM and I'm in bad mood. I'm hiding right now. There is 91 tasks done and 609 tasks left.
+Air alert ended!
+It is 6th day. 6 AM and I'm in bad mood. I'm sleeping right now. There is 91 tasks done and 609 tasks left.
+It is 6th day. 7 AM and I'm in bad mood. I'm sleeping right now. There is 91 tasks done and 609 tasks left.
+It is 6th day. 8 AM and I'm in bad mood. I'm eating right now. There is 91 tasks done and 609 tasks left.
+It is 6th day. 9 AM and I'm in bad mood. I'm studying right now. There is 95 tasks done and 605 tasks left.
+It is 6th day. 10 AM and I'm in bad mood. I'm studying right now. There is 100 tasks done and 600 tasks left.
+It is 6th day. 11 AM and I'm in bad mood. I'm studying right now. There is 105 tasks done and 595 tasks left.
+It is 6th day. 12 AM and I'm in bad mood. I'm studying right now. There is 110 tasks done and 590 tasks left.
+It is 6th day. 1 PM and I'm in bad mood. I'm studying right now. There is 111 tasks done and 589 tasks left.
+It is 6th day. 2 PM and I'm in bad mood. I'm studying right now. There is 112 tasks done and 588 tasks left.
+It is 6th day. 3 PM and I'm in bad mood. I'm eating right now. There is 112 tasks done and 588 tasks left.
+It is 6th day. 4 PM and I'm in bad mood. I'm studying right now. There is 115 tasks done and 585 tasks left.
+It is 6th day. 5 PM and I'm in bad mood. I'm studying right now. There is 116 tasks done and 584 tasks left.
+It is 6th day. 6 PM and I'm in bad mood. I'm studying right now. There is 119 tasks done and 581 tasks left.
+It is 6th day. 7 PM and I'm in bad mood. I'm walking right now. There is 119 tasks done and 581 tasks left.
+It is 6th day. 8 PM and I'm in bad mood. I'm walking right now. There is 119 tasks done and 581 tasks left.
+It is 6th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 119 tasks done and 581 tasks left.
+It is 6th day. 10 PM and I'm in bad mood. I'm eating right now. There is 119 tasks done and 581 tasks left.
+It is 6th day. 11 PM and I'm in bad mood. It's time for whiskey. right now. There is 119 tasks done and 581 tasks left.
+It is 6th day. 0 PM and I'm in bad mood. It's time for whiskey. right now. There is 119 tasks done and 581 tasks left.
+Sweet dreams!
+Haha, good grade for test :)
+It is 7th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 119 tasks done and 581 tasks left.
+It is 7th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 119 tasks done and 581 tasks left.
+It is 7th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 119 tasks done and 581 tasks left.
+It is 7th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 119 tasks done and 581 tasks left.
+It is 7th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 119 tasks done and 581 tasks left.
+It is 7th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 119 tasks done and 581 tasks left.
+It is 7th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 119 tasks done and 581 tasks left.
+It is 7th day. 8 AM and I'm in good mood. I'm eating right now. There is 119 tasks done and 581 tasks left.
+AIR ALERT!
+It is 7th day. 9 AM and I'm in bad mood. I'm hiding right now. There is 121 tasks done and 579 tasks left.
+Air alert ended!
+It is 7th day. 10 AM and I'm in bad mood. I'm studying right now. There is 124 tasks done and 576 tasks left.
+It is 7th day. 11 AM and I'm in bad mood. I'm studying right now. There is 129 tasks done and 571 tasks left.
+It is 7th day. 12 AM and I'm in bad mood. I'm studying right now. There is 132 tasks done and 568 tasks left.
+It is 7th day. 1 PM and I'm in bad mood. I'm studying right now. There is 137 tasks done and 563 tasks left.
+It is 7th day. 2 PM and I'm in bad mood. I'm studying right now. There is 138 tasks done and 562 tasks left.
+AIR ALERT!
+It is 7th day. 3 PM and I'm in bad mood. I'm hiding right now. There is 138 tasks done and 562 tasks left.
+It is 7th day. 4 PM and I'm in bad mood. I'm hiding right now. There is 138 tasks done and 562 tasks left.
+It is 7th day. 5 PM and I'm in bad mood. I'm hiding right now. There is 138 tasks done and 562 tasks left.
+Air alert ended!
+It is 7th day. 6 PM and I'm in bad mood. I'm studying right now. There is 140 tasks done and 560 tasks left.
+It is 7th day. 7 PM and I'm in bad mood. I'm walking right now. There is 140 tasks done and 560 tasks left.
+It is 7th day. 8 PM and I'm in bad mood. I'm walking right now. There is 140 tasks done and 560 tasks left.
+It is 7th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 140 tasks done and 560 tasks left.
+It is 7th day. 10 PM and I'm in bad mood. I'm eating right now. There is 140 tasks done and 560 tasks left.
+It is 7th day. 11 PM and I'm in bad mood. It's time for whiskey. right now. There is 140 tasks done and 560 tasks left.
+It is 7th day. 0 PM and I'm in bad mood. It's time for whiskey. right now. There is 140 tasks done and 560 tasks left.
+Sweet dreams!
+Haha, good grade for test :)
+It is 8th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 140 tasks done and 560 tasks left.
+It is 8th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 140 tasks done and 560 tasks left.
+It is 8th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 140 tasks done and 560 tasks left.
+It is 8th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 140 tasks done and 560 tasks left.
+It is 8th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 140 tasks done and 560 tasks left.
+It is 8th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 140 tasks done and 560 tasks left.
+It is 8th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 140 tasks done and 560 tasks left.
+It is 8th day. 8 AM and I'm in good mood. I'm eating right now. There is 140 tasks done and 560 tasks left.
+It is 8th day. 9 AM and I'm in good mood. I'm studying right now. There is 142 tasks done and 558 tasks left.
+It is 8th day. 10 AM and I'm in good mood. I'm studying right now. There is 147 tasks done and 553 tasks left.
+It is 8th day. 11 AM and I'm in good mood. I'm studying right now. There is 151 tasks done and 549 tasks left.
+It is 8th day. 12 AM and I'm in good mood. I'm studying right now. There is 152 tasks done and 548 tasks left.
+It is 8th day. 1 PM and I'm in good mood. I'm studying right now. There is 155 tasks done and 545 tasks left.
+It is 8th day. 2 PM and I'm in good mood. I'm studying right now. There is 157 tasks done and 543 tasks left.
+It is 8th day. 3 PM and I'm in good mood. I'm eating right now. There is 157 tasks done and 543 tasks left.
+It is 8th day. 4 PM and I'm in good mood. I'm studying right now. There is 160 tasks done and 540 tasks left.
+It is 8th day. 5 PM and I'm in good mood. I'm studying right now. There is 161 tasks done and 539 tasks left.
+AIR ALERT!
+It is 8th day. 6 PM and I'm in bad mood. I'm hiding right now. There is 162 tasks done and 538 tasks left.
+It is 8th day. 7 PM and I'm in bad mood. I'm hiding right now. There is 162 tasks done and 538 tasks left.
+It is 8th day. 8 PM and I'm in bad mood. I'm hiding right now. There is 162 tasks done and 538 tasks left.
+Air alert ended!
+It is 8th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 162 tasks done and 538 tasks left.
+AIR ALERT!
+It is 8th day. 10 PM and I'm in bad mood. I'm hiding right now. There is 162 tasks done and 538 tasks left.
+It is 8th day. 11 PM and I'm in bad mood. I'm hiding right now. There is 162 tasks done and 538 tasks left.
+Air alert ended!
+It is 8th day. 0 PM and I'm in bad mood. It's time for whiskey. right now. There is 162 tasks done and 538 tasks left.
+Sweet dreams!
+It is 9th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 162 tasks done and 538 tasks left.
+It is 9th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 162 tasks done and 538 tasks left.
+It is 9th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 162 tasks done and 538 tasks left.
+It is 9th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 162 tasks done and 538 tasks left.
+It is 9th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 162 tasks done and 538 tasks left.
+It is 9th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 162 tasks done and 538 tasks left.
+It is 9th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 162 tasks done and 538 tasks left.
+It is 9th day. 8 AM and I'm in good mood. I'm eating right now. There is 162 tasks done and 538 tasks left.
+It is 9th day. 9 AM and I'm in good mood. I'm studying right now. There is 165 tasks done and 535 tasks left.
+Haha, good grade for test :)
+It is 9th day. 10 AM and I'm in good mood. I'm studying right now. There is 166 tasks done and 534 tasks left.
+It is 9th day. 11 AM and I'm in good mood. I'm studying right now. There is 167 tasks done and 533 tasks left.
+It is 9th day. 12 AM and I'm in good mood. I'm studying right now. There is 168 tasks done and 532 tasks left.
+It is 9th day. 1 PM and I'm in good mood. I'm studying right now. There is 173 tasks done and 527 tasks left.
+It is 9th day. 2 PM and I'm in good mood. I'm studying right now. There is 174 tasks done and 526 tasks left.
+It is 9th day. 3 PM and I'm in good mood. I'm eating right now. There is 174 tasks done and 526 tasks left.
+It is 9th day. 4 PM and I'm in good mood. I'm studying right now. There is 176 tasks done and 524 tasks left.
+AIR ALERT!
+It is 9th day. 5 PM and I'm in bad mood. I'm hiding right now. There is 181 tasks done and 519 tasks left.
+Air alert ended!
+Haha, good grade for test :)
+It is 9th day. 6 PM and I'm in good mood. I'm studying right now. There is 182 tasks done and 518 tasks left.
+It is 9th day. 7 PM and I'm in good mood. I'm walking right now. There is 182 tasks done and 518 tasks left.
+It is 9th day. 8 PM and I'm in good mood. I'm walking right now. There is 182 tasks done and 518 tasks left.
+It is 9th day. 9 PM and I'm in good mood. It's time for family. right now. There is 182 tasks done and 518 tasks left.
+It is 9th day. 10 PM and I'm in good mood. I'm eating right now. There is 182 tasks done and 518 tasks left.
+Haha, good grade for test :)
+It is 9th day. 11 PM and I'm in good mood. It's time for beer. right now. There is 182 tasks done and 518 tasks left.
+It is 9th day. 0 PM and I'm in good mood. It's time for beer. right now. There is 182 tasks done and 518 tasks left.
+Sweet dreams!
+It is 10th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 182 tasks done and 518 tasks left.
+It is 10th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 182 tasks done and 518 tasks left.
+It is 10th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 182 tasks done and 518 tasks left.
+It is 10th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 182 tasks done and 518 tasks left.
+AIR ALERT!
+It is 10th day. 5 AM and I'm in bad mood. I'm hiding right now. There is 182 tasks done and 518 tasks left.
+It is 10th day. 6 AM and I'm in bad mood. I'm hiding right now. There is 182 tasks done and 518 tasks left.
+Air alert ended!
+It is 10th day. 7 AM and I'm in bad mood. I'm sleeping right now. There is 182 tasks done and 518 tasks left.
+It is 10th day. 8 AM and I'm in bad mood. I'm eating right now. There is 182 tasks done and 518 tasks left.
+AIR ALERT!
+It is 10th day. 9 AM and I'm in bad mood. I'm hiding right now. There is 187 tasks done and 513 tasks left.
+It is 10th day. 10 AM and I'm in bad mood. I'm hiding right now. There is 187 tasks done and 513 tasks left.
+Air alert ended!
+It is 10th day. 11 AM and I'm in bad mood. I'm studying right now. There is 192 tasks done and 508 tasks left.
+It is 10th day. 12 AM and I'm in bad mood. I'm studying right now. There is 196 tasks done and 504 tasks left.
+Haha, good grade for test :)
+It is 10th day. 1 PM and I'm in good mood. I'm studying right now. There is 201 tasks done and 499 tasks left.
+It is 10th day. 2 PM and I'm in good mood. I'm studying right now. There is 203 tasks done and 497 tasks left.
+It is 10th day. 3 PM and I'm in good mood. I'm eating right now. There is 203 tasks done and 497 tasks left.
+It is 10th day. 4 PM and I'm in good mood. I'm studying right now. There is 206 tasks done and 494 tasks left.
+It is 10th day. 5 PM and I'm in good mood. I'm studying right now. There is 207 tasks done and 493 tasks left.
+It is 10th day. 6 PM and I'm in good mood. I'm studying right now. There is 208 tasks done and 492 tasks left.
+It is 10th day. 7 PM and I'm in good mood. I'm walking right now. There is 208 tasks done and 492 tasks left.
+It is 10th day. 8 PM and I'm in good mood. I'm walking right now. There is 208 tasks done and 492 tasks left.
+It is 10th day. 9 PM and I'm in good mood. It's time for family. right now. There is 208 tasks done and 492 tasks left.
+It is 10th day. 10 PM and I'm in good mood. I'm eating right now. There is 208 tasks done and 492 tasks left.
+It is 10th day. 11 PM and I'm in good mood. It's time for beer. right now. There is 208 tasks done and 492 tasks left.
+It is 10th day. 0 PM and I'm in good mood. It's time for beer. right now. There is 208 tasks done and 492 tasks left.
+Sweet dreams!
+AIR ALERT!
+It is 11th day. 1 AM and I'm in bad mood. I'm hiding right now. There is 208 tasks done and 492 tasks left.
+It is 11th day. 2 AM and I'm in bad mood. I'm hiding right now. There is 208 tasks done and 492 tasks left.
+Air alert ended!
+It is 11th day. 3 AM and I'm in bad mood. I'm sleeping right now. There is 208 tasks done and 492 tasks left.
+It is 11th day. 4 AM and I'm in bad mood. I'm sleeping right now. There is 208 tasks done and 492 tasks left.
+It is 11th day. 5 AM and I'm in bad mood. I'm sleeping right now. There is 208 tasks done and 492 tasks left.
+It is 11th day. 6 AM and I'm in bad mood. I'm sleeping right now. There is 208 tasks done and 492 tasks left.
+It is 11th day. 7 AM and I'm in bad mood. I'm sleeping right now. There is 208 tasks done and 492 tasks left.
+It is 11th day. 8 AM and I'm in bad mood. I'm eating right now. There is 208 tasks done and 492 tasks left.
+It is 11th day. 9 AM and I'm in bad mood. I'm studying right now. There is 209 tasks done and 491 tasks left.
+It is 11th day. 10 AM and I'm in bad mood. I'm studying right now. There is 214 tasks done and 486 tasks left.
+It is 11th day. 11 AM and I'm in bad mood. I'm studying right now. There is 218 tasks done and 482 tasks left.
+It is 11th day. 12 AM and I'm in bad mood. I'm studying right now. There is 222 tasks done and 478 tasks left.
+It is 11th day. 1 PM and I'm in bad mood. I'm studying right now. There is 225 tasks done and 475 tasks left.
+It is 11th day. 2 PM and I'm in bad mood. I'm studying right now. There is 229 tasks done and 471 tasks left.
+It is 11th day. 3 PM and I'm in bad mood. I'm eating right now. There is 229 tasks done and 471 tasks left.
+It is 11th day. 4 PM and I'm in bad mood. I'm studying right now. There is 230 tasks done and 470 tasks left.
+It is 11th day. 5 PM and I'm in bad mood. I'm studying right now. There is 235 tasks done and 465 tasks left.
+It is 11th day. 6 PM and I'm in bad mood. I'm studying right now. There is 240 tasks done and 460 tasks left.
+It is 11th day. 7 PM and I'm in bad mood. I'm walking right now. There is 240 tasks done and 460 tasks left.
+It is 11th day. 8 PM and I'm in bad mood. I'm walking right now. There is 240 tasks done and 460 tasks left.
+It is 11th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 240 tasks done and 460 tasks left.
+It is 11th day. 10 PM and I'm in bad mood. I'm eating right now. There is 240 tasks done and 460 tasks left.
+It is 11th day. 11 PM and I'm in bad mood. It's time for whiskey. right now. There is 240 tasks done and 460 tasks left.
+It is 11th day. 0 PM and I'm in bad mood. It's time for whiskey. right now. There is 240 tasks done and 460 tasks left.
+Sweet dreams!
+It is 12th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 240 tasks done and 460 tasks left.
+AIR ALERT!
+It is 12th day. 2 AM and I'm in bad mood. I'm hiding right now. There is 240 tasks done and 460 tasks left.
+Air alert ended!
+It is 12th day. 3 AM and I'm in bad mood. I'm sleeping right now. There is 240 tasks done and 460 tasks left.
+It is 12th day. 4 AM and I'm in bad mood. I'm sleeping right now. There is 240 tasks done and 460 tasks left.
+It is 12th day. 5 AM and I'm in bad mood. I'm sleeping right now. There is 240 tasks done and 460 tasks left.
+It is 12th day. 6 AM and I'm in bad mood. I'm sleeping right now. There is 240 tasks done and 460 tasks left.
+It is 12th day. 7 AM and I'm in bad mood. I'm sleeping right now. There is 240 tasks done and 460 tasks left.
+It is 12th day. 8 AM and I'm in bad mood. I'm eating right now. There is 240 tasks done and 460 tasks left.
+It is 12th day. 9 AM and I'm in bad mood. I'm studying right now. There is 241 tasks done and 459 tasks left.
+It is 12th day. 10 AM and I'm in bad mood. I'm studying right now. There is 243 tasks done and 457 tasks left.
+It is 12th day. 11 AM and I'm in bad mood. I'm studying right now. There is 245 tasks done and 455 tasks left.
+It is 12th day. 12 AM and I'm in bad mood. I'm studying right now. There is 248 tasks done and 452 tasks left.
+It is 12th day. 1 PM and I'm in bad mood. I'm studying right now. There is 250 tasks done and 450 tasks left.
+It is 12th day. 2 PM and I'm in bad mood. I'm studying right now. There is 252 tasks done and 448 tasks left.
+It is 12th day. 3 PM and I'm in bad mood. I'm eating right now. There is 252 tasks done and 448 tasks left.
+It is 12th day. 4 PM and I'm in bad mood. I'm studying right now. There is 256 tasks done and 444 tasks left.
+It is 12th day. 5 PM and I'm in bad mood. I'm studying right now. There is 261 tasks done and 439 tasks left.
+It is 12th day. 6 PM and I'm in bad mood. I'm studying right now. There is 262 tasks done and 438 tasks left.
+It is 12th day. 7 PM and I'm in bad mood. I'm walking right now. There is 262 tasks done and 438 tasks left.
+It is 12th day. 8 PM and I'm in bad mood. I'm walking right now. There is 262 tasks done and 438 tasks left.
+It is 12th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 262 tasks done and 438 tasks left.
+It is 12th day. 10 PM and I'm in bad mood. I'm eating right now. There is 262 tasks done and 438 tasks left.
+It is 12th day. 11 PM and I'm in bad mood. It's time for whiskey. right now. There is 262 tasks done and 438 tasks left.
+AIR ALERT!
+It is 12th day. 0 PM and I'm in bad mood. I'm hiding right now. There is 262 tasks done and 438 tasks left.
+Sweet dreams!
+It is 13th day. 1 AM and I'm in good mood. I'm hiding right now. There is 262 tasks done and 438 tasks left.
+It is 13th day. 2 AM and I'm in good mood. I'm hiding right now. There is 262 tasks done and 438 tasks left.
+Air alert ended!
+It is 13th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 262 tasks done and 438 tasks left.
+It is 13th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 262 tasks done and 438 tasks left.
+It is 13th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 262 tasks done and 438 tasks left.
+It is 13th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 262 tasks done and 438 tasks left.
+It is 13th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 262 tasks done and 438 tasks left.
+It is 13th day. 8 AM and I'm in good mood. I'm eating right now. There is 262 tasks done and 438 tasks left.
+It is 13th day. 9 AM and I'm in good mood. I'm studying right now. There is 263 tasks done and 437 tasks left.
+Haha, good grade for test :)
+It is 13th day. 10 AM and I'm in good mood. I'm studying right now. There is 265 tasks done and 435 tasks left.
+Haha, good grade for test :)
+It is 13th day. 11 AM and I'm in good mood. I'm studying right now. There is 266 tasks done and 434 tasks left.
+It is 13th day. 12 AM and I'm in good mood. I'm studying right now. There is 269 tasks done and 431 tasks left.
+It is 13th day. 1 PM and I'm in good mood. I'm studying right now. There is 271 tasks done and 429 tasks left.
+It is 13th day. 2 PM and I'm in good mood. I'm studying right now. There is 273 tasks done and 427 tasks left.
+It is 13th day. 3 PM and I'm in good mood. I'm eating right now. There is 273 tasks done and 427 tasks left.
+It is 13th day. 4 PM and I'm in good mood. I'm studying right now. There is 274 tasks done and 426 tasks left.
+It is 13th day. 5 PM and I'm in good mood. I'm studying right now. There is 278 tasks done and 422 tasks left.
+It is 13th day. 6 PM and I'm in good mood. I'm studying right now. There is 279 tasks done and 421 tasks left.
+It is 13th day. 7 PM and I'm in good mood. I'm walking right now. There is 279 tasks done and 421 tasks left.
+It is 13th day. 8 PM and I'm in good mood. I'm walking right now. There is 279 tasks done and 421 tasks left.
+It is 13th day. 9 PM and I'm in good mood. It's time for family. right now. There is 279 tasks done and 421 tasks left.
+Haha, good grade for test :)
+It is 13th day. 10 PM and I'm in good mood. I'm eating right now. There is 279 tasks done and 421 tasks left.
+It is 13th day. 11 PM and I'm in good mood. It's time for beer. right now. There is 279 tasks done and 421 tasks left.
+It is 13th day. 0 PM and I'm in good mood. It's time for beer. right now. There is 279 tasks done and 421 tasks left.
+Sweet dreams!
+It is 14th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 279 tasks done and 421 tasks left.
+It is 14th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 279 tasks done and 421 tasks left.
+It is 14th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 279 tasks done and 421 tasks left.
+It is 14th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 279 tasks done and 421 tasks left.
+It is 14th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 279 tasks done and 421 tasks left.
+It is 14th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 279 tasks done and 421 tasks left.
+It is 14th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 279 tasks done and 421 tasks left.
+It is 14th day. 8 AM and I'm in good mood. I'm eating right now. There is 279 tasks done and 421 tasks left.
+It is 14th day. 9 AM and I'm in good mood. I'm studying right now. There is 281 tasks done and 419 tasks left.
+Haha, good grade for test :)
+It is 14th day. 10 AM and I'm in good mood. I'm studying right now. There is 283 tasks done and 417 tasks left.
+It is 14th day. 11 AM and I'm in good mood. I'm studying right now. There is 284 tasks done and 416 tasks left.
+It is 14th day. 12 AM and I'm in good mood. I'm studying right now. There is 288 tasks done and 412 tasks left.
+It is 14th day. 1 PM and I'm in good mood. I'm studying right now. There is 293 tasks done and 407 tasks left.
+It is 14th day. 2 PM and I'm in good mood. I'm studying right now. There is 294 tasks done and 406 tasks left.
+It is 14th day. 3 PM and I'm in good mood. I'm eating right now. There is 294 tasks done and 406 tasks left.
+It is 14th day. 4 PM and I'm in good mood. I'm studying right now. There is 295 tasks done and 405 tasks left.
+It is 14th day. 5 PM and I'm in good mood. I'm studying right now. There is 296 tasks done and 404 tasks left.
+Haha, good grade for test :)
+It is 14th day. 6 PM and I'm in good mood. I'm studying right now. There is 298 tasks done and 402 tasks left.
+It is 14th day. 7 PM and I'm in good mood. I'm walking right now. There is 298 tasks done and 402 tasks left.
+AIR ALERT!
+It is 14th day. 8 PM and I'm in bad mood. I'm hiding right now. There is 298 tasks done and 402 tasks left.
+Air alert ended!
+It is 14th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 298 tasks done and 402 tasks left.
+It is 14th day. 10 PM and I'm in bad mood. I'm eating right now. There is 298 tasks done and 402 tasks left.
+It is 14th day. 11 PM and I'm in bad mood. It's time for whiskey. right now. There is 298 tasks done and 402 tasks left.
+It is 14th day. 0 PM and I'm in bad mood. It's time for whiskey. right now. There is 298 tasks done and 402 tasks left.
+Sweet dreams!
+It is 15th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 298 tasks done and 402 tasks left.
+It is 15th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 298 tasks done and 402 tasks left.
+It is 15th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 298 tasks done and 402 tasks left.
+It is 15th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 298 tasks done and 402 tasks left.
+It is 15th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 298 tasks done and 402 tasks left.
+It is 15th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 298 tasks done and 402 tasks left.
+It is 15th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 298 tasks done and 402 tasks left.
+It is 15th day. 8 AM and I'm in good mood. I'm eating right now. There is 298 tasks done and 402 tasks left.
+It is 15th day. 9 AM and I'm in good mood. I'm studying right now. There is 301 tasks done and 399 tasks left.
+Haha, good grade for test :)
+It is 15th day. 10 AM and I'm in good mood. I'm studying right now. There is 305 tasks done and 395 tasks left.
+It is 15th day. 11 AM and I'm in good mood. I'm studying right now. There is 308 tasks done and 392 tasks left.
+It is 15th day. 12 AM and I'm in good mood. I'm studying right now. There is 313 tasks done and 387 tasks left.
+Haha, good grade for test :)
+It is 15th day. 1 PM and I'm in good mood. I'm studying right now. There is 317 tasks done and 383 tasks left.
+Oh, bad grade for test :( Delay because of the bad mood
+It is 15th day. 2 PM and I'm in bad mood. I'm studying right now. There is 314 tasks done and 386 tasks left.
+It is 15th day. 3 PM and I'm in bad mood. I'm eating right now. There is 314 tasks done and 386 tasks left.
+It is 15th day. 4 PM and I'm in bad mood. I'm studying right now. There is 318 tasks done and 382 tasks left.
+It is 15th day. 5 PM and I'm in bad mood. I'm studying right now. There is 319 tasks done and 381 tasks left.
+It is 15th day. 6 PM and I'm in bad mood. I'm studying right now. There is 323 tasks done and 377 tasks left.
+It is 15th day. 7 PM and I'm in bad mood. I'm walking right now. There is 323 tasks done and 377 tasks left.
+It is 15th day. 8 PM and I'm in bad mood. I'm walking right now. There is 323 tasks done and 377 tasks left.
+It is 15th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 323 tasks done and 377 tasks left.
+It is 15th day. 10 PM and I'm in bad mood. I'm eating right now. There is 323 tasks done and 377 tasks left.
+It is 15th day. 11 PM and I'm in bad mood. It's time for whiskey. right now. There is 323 tasks done and 377 tasks left.
+It is 15th day. 0 PM and I'm in bad mood. It's time for whiskey. right now. There is 323 tasks done and 377 tasks left.
+Sweet dreams!
+It is 16th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 323 tasks done and 377 tasks left.
+It is 16th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 323 tasks done and 377 tasks left.
+It is 16th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 323 tasks done and 377 tasks left.
+It is 16th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 323 tasks done and 377 tasks left.
+It is 16th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 323 tasks done and 377 tasks left.
+It is 16th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 323 tasks done and 377 tasks left.
+It is 16th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 323 tasks done and 377 tasks left.
+It is 16th day. 8 AM and I'm in good mood. I'm eating right now. There is 323 tasks done and 377 tasks left.
+It is 16th day. 9 AM and I'm in good mood. I'm studying right now. There is 325 tasks done and 375 tasks left.
+It is 16th day. 10 AM and I'm in good mood. I'm studying right now. There is 328 tasks done and 372 tasks left.
+Haha, good grade for test :)
+It is 16th day. 11 AM and I'm in good mood. I'm studying right now. There is 333 tasks done and 367 tasks left.
+It is 16th day. 12 AM and I'm in good mood. I'm studying right now. There is 338 tasks done and 362 tasks left.
+It is 16th day. 1 PM and I'm in good mood. I'm studying right now. There is 340 tasks done and 360 tasks left.
+It is 16th day. 2 PM and I'm in good mood. I'm studying right now. There is 341 tasks done and 359 tasks left.
+It is 16th day. 3 PM and I'm in good mood. I'm eating right now. There is 341 tasks done and 359 tasks left.
+It is 16th day. 4 PM and I'm in good mood. I'm studying right now. There is 342 tasks done and 358 tasks left.
+It is 16th day. 5 PM and I'm in good mood. I'm studying right now. There is 343 tasks done and 357 tasks left.
+It is 16th day. 6 PM and I'm in good mood. I'm studying right now. There is 345 tasks done and 355 tasks left.
+It is 16th day. 7 PM and I'm in good mood. I'm walking right now. There is 345 tasks done and 355 tasks left.
+Haha, good grade for test :)
+It is 16th day. 8 PM and I'm in good mood. I'm walking right now. There is 345 tasks done and 355 tasks left.
+It is 16th day. 9 PM and I'm in good mood. It's time for family. right now. There is 345 tasks done and 355 tasks left.
+It is 16th day. 10 PM and I'm in good mood. I'm eating right now. There is 345 tasks done and 355 tasks left.
+It is 16th day. 11 PM and I'm in good mood. It's time for beer. right now. There is 345 tasks done and 355 tasks left.
+It is 16th day. 0 PM and I'm in good mood. It's time for beer. right now. There is 345 tasks done and 355 tasks left.
+Sweet dreams!
+It is 17th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 345 tasks done and 355 tasks left.
+It is 17th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 345 tasks done and 355 tasks left.
+It is 17th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 345 tasks done and 355 tasks left.
+It is 17th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 345 tasks done and 355 tasks left.
+It is 17th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 345 tasks done and 355 tasks left.
+It is 17th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 345 tasks done and 355 tasks left.
+It is 17th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 345 tasks done and 355 tasks left.
+It is 17th day. 8 AM and I'm in good mood. I'm eating right now. There is 345 tasks done and 355 tasks left.
+It is 17th day. 9 AM and I'm in good mood. I'm studying right now. There is 349 tasks done and 351 tasks left.
+Haha, good grade for test :)
+It is 17th day. 10 AM and I'm in good mood. I'm studying right now. There is 353 tasks done and 347 tasks left.
+It is 17th day. 11 AM and I'm in good mood. I'm studying right now. There is 357 tasks done and 343 tasks left.
+It is 17th day. 12 AM and I'm in good mood. I'm studying right now. There is 358 tasks done and 342 tasks left.
+Haha, good grade for test :)
+It is 17th day. 1 PM and I'm in good mood. I'm studying right now. There is 359 tasks done and 341 tasks left.
+It is 17th day. 2 PM and I'm in good mood. I'm studying right now. There is 362 tasks done and 338 tasks left.
+It is 17th day. 3 PM and I'm in good mood. I'm eating right now. There is 362 tasks done and 338 tasks left.
+It is 17th day. 4 PM and I'm in good mood. I'm studying right now. There is 367 tasks done and 333 tasks left.
+It is 17th day. 5 PM and I'm in good mood. I'm studying right now. There is 369 tasks done and 331 tasks left.
+It is 17th day. 6 PM and I'm in good mood. I'm studying right now. There is 370 tasks done and 330 tasks left.
+It is 17th day. 7 PM and I'm in good mood. I'm walking right now. There is 370 tasks done and 330 tasks left.
+It is 17th day. 8 PM and I'm in good mood. I'm walking right now. There is 370 tasks done and 330 tasks left.
+It is 17th day. 9 PM and I'm in good mood. It's time for family. right now. There is 370 tasks done and 330 tasks left.
+It is 17th day. 10 PM and I'm in good mood. I'm eating right now. There is 370 tasks done and 330 tasks left.
+Haha, good grade for test :)
+It is 17th day. 11 PM and I'm in good mood. It's time for beer. right now. There is 370 tasks done and 330 tasks left.
+It is 17th day. 0 PM and I'm in good mood. It's time for beer. right now. There is 370 tasks done and 330 tasks left.
+Sweet dreams!
+Haha, good grade for test :)
+It is 18th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 370 tasks done and 330 tasks left.
+It is 18th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 370 tasks done and 330 tasks left.
+It is 18th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 370 tasks done and 330 tasks left.
+It is 18th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 370 tasks done and 330 tasks left.
+It is 18th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 370 tasks done and 330 tasks left.
+It is 18th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 370 tasks done and 330 tasks left.
+It is 18th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 370 tasks done and 330 tasks left.
+It is 18th day. 8 AM and I'm in good mood. I'm eating right now. There is 370 tasks done and 330 tasks left.
+It is 18th day. 9 AM and I'm in good mood. I'm studying right now. There is 374 tasks done and 326 tasks left.
+It is 18th day. 10 AM and I'm in good mood. I'm studying right now. There is 375 tasks done and 325 tasks left.
+It is 18th day. 11 AM and I'm in good mood. I'm studying right now. There is 377 tasks done and 323 tasks left.
+It is 18th day. 12 AM and I'm in good mood. I'm studying right now. There is 378 tasks done and 322 tasks left.
+It is 18th day. 1 PM and I'm in good mood. I'm studying right now. There is 382 tasks done and 318 tasks left.
+It is 18th day. 2 PM and I'm in good mood. I'm studying right now. There is 387 tasks done and 313 tasks left.
+It is 18th day. 3 PM and I'm in good mood. I'm eating right now. There is 387 tasks done and 313 tasks left.
+It is 18th day. 4 PM and I'm in good mood. I'm studying right now. There is 388 tasks done and 312 tasks left.
+It is 18th day. 5 PM and I'm in good mood. I'm studying right now. There is 392 tasks done and 308 tasks left.
+It is 18th day. 6 PM and I'm in good mood. I'm studying right now. There is 394 tasks done and 306 tasks left.
+It is 18th day. 7 PM and I'm in good mood. I'm walking right now. There is 394 tasks done and 306 tasks left.
+It is 18th day. 8 PM and I'm in good mood. I'm walking right now. There is 394 tasks done and 306 tasks left.
+It is 18th day. 9 PM and I'm in good mood. It's time for family. right now. There is 394 tasks done and 306 tasks left.
+It is 18th day. 10 PM and I'm in good mood. I'm eating right now. There is 394 tasks done and 306 tasks left.
+AIR ALERT!
+It is 18th day. 11 PM and I'm in bad mood. I'm hiding right now. There is 394 tasks done and 306 tasks left.
+It is 18th day. 0 PM and I'm in bad mood. I'm hiding right now. There is 394 tasks done and 306 tasks left.
+Sweet dreams!
+Air alert ended!
+It is 19th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 394 tasks done and 306 tasks left.
+It is 19th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 394 tasks done and 306 tasks left.
+It is 19th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 394 tasks done and 306 tasks left.
+It is 19th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 394 tasks done and 306 tasks left.
+It is 19th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 394 tasks done and 306 tasks left.
+It is 19th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 394 tasks done and 306 tasks left.
+It is 19th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 394 tasks done and 306 tasks left.
+It is 19th day. 8 AM and I'm in good mood. I'm eating right now. There is 394 tasks done and 306 tasks left.
+It is 19th day. 9 AM and I'm in good mood. I'm studying right now. There is 398 tasks done and 302 tasks left.
+It is 19th day. 10 AM and I'm in good mood. I'm studying right now. There is 400 tasks done and 300 tasks left.
+It is 19th day. 11 AM and I'm in good mood. I'm studying right now. There is 404 tasks done and 296 tasks left.
+It is 19th day. 12 AM and I'm in good mood. I'm studying right now. There is 408 tasks done and 292 tasks left.
+It is 19th day. 1 PM and I'm in good mood. I'm studying right now. There is 412 tasks done and 288 tasks left.
+It is 19th day. 2 PM and I'm in good mood. I'm studying right now. There is 415 tasks done and 285 tasks left.
+Haha, good grade for test :)
+It is 19th day. 3 PM and I'm in good mood. I'm eating right now. There is 415 tasks done and 285 tasks left.
+It is 19th day. 4 PM and I'm in good mood. I'm studying right now. There is 416 tasks done and 284 tasks left.
+It is 19th day. 5 PM and I'm in good mood. I'm studying right now. There is 420 tasks done and 280 tasks left.
+AIR ALERT!
+It is 19th day. 6 PM and I'm in bad mood. I'm hiding right now. There is 423 tasks done and 277 tasks left.
+Air alert ended!
+It is 19th day. 7 PM and I'm in bad mood. I'm walking right now. There is 423 tasks done and 277 tasks left.
+It is 19th day. 8 PM and I'm in bad mood. I'm walking right now. There is 423 tasks done and 277 tasks left.
+It is 19th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 423 tasks done and 277 tasks left.
+It is 19th day. 10 PM and I'm in bad mood. I'm eating right now. There is 423 tasks done and 277 tasks left.
+It is 19th day. 11 PM and I'm in bad mood. It's time for whiskey. right now. There is 423 tasks done and 277 tasks left.
+It is 19th day. 0 PM and I'm in bad mood. It's time for whiskey. right now. There is 423 tasks done and 277 tasks left.
+Sweet dreams!
+It is 20th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 423 tasks done and 277 tasks left.
+It is 20th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 423 tasks done and 277 tasks left.
+It is 20th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 423 tasks done and 277 tasks left.
+It is 20th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 423 tasks done and 277 tasks left.
+It is 20th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 423 tasks done and 277 tasks left.
+It is 20th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 423 tasks done and 277 tasks left.
+It is 20th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 423 tasks done and 277 tasks left.
+It is 20th day. 8 AM and I'm in good mood. I'm eating right now. There is 423 tasks done and 277 tasks left.
+It is 20th day. 9 AM and I'm in good mood. I'm studying right now. There is 425 tasks done and 275 tasks left.
+It is 20th day. 10 AM and I'm in good mood. I'm studying right now. There is 430 tasks done and 270 tasks left.
+It is 20th day. 11 AM and I'm in good mood. I'm studying right now. There is 435 tasks done and 265 tasks left.
+It is 20th day. 12 AM and I'm in good mood. I'm studying right now. There is 438 tasks done and 262 tasks left.
+Haha, good grade for test :)
+It is 20th day. 1 PM and I'm in good mood. I'm studying right now. There is 439 tasks done and 261 tasks left.
+It is 20th day. 2 PM and I'm in good mood. I'm studying right now. There is 441 tasks done and 259 tasks left.
+It is 20th day. 3 PM and I'm in good mood. I'm eating right now. There is 441 tasks done and 259 tasks left.
+It is 20th day. 4 PM and I'm in good mood. I'm studying right now. There is 445 tasks done and 255 tasks left.
+It is 20th day. 5 PM and I'm in good mood. I'm studying right now. There is 450 tasks done and 250 tasks left.
+It is 20th day. 6 PM and I'm in good mood. I'm studying right now. There is 455 tasks done and 245 tasks left.
+It is 20th day. 7 PM and I'm in good mood. I'm walking right now. There is 455 tasks done and 245 tasks left.
+It is 20th day. 8 PM and I'm in good mood. I'm walking right now. There is 455 tasks done and 245 tasks left.
+It is 20th day. 9 PM and I'm in good mood. It's time for family. right now. There is 455 tasks done and 245 tasks left.
+It is 20th day. 10 PM and I'm in good mood. I'm eating right now. There is 455 tasks done and 245 tasks left.
+AIR ALERT!
+It is 20th day. 11 PM and I'm in bad mood. I'm hiding right now. There is 455 tasks done and 245 tasks left.
+It is 20th day. 0 PM and I'm in bad mood. I'm hiding right now. There is 455 tasks done and 245 tasks left.
+Sweet dreams!
+Air alert ended!
+Haha, good grade for test :)
+It is 21th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 455 tasks done and 245 tasks left.
+It is 21th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 455 tasks done and 245 tasks left.
+It is 21th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 455 tasks done and 245 tasks left.
+It is 21th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 455 tasks done and 245 tasks left.
+It is 21th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 455 tasks done and 245 tasks left.
+It is 21th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 455 tasks done and 245 tasks left.
+It is 21th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 455 tasks done and 245 tasks left.
+It is 21th day. 8 AM and I'm in good mood. I'm eating right now. There is 455 tasks done and 245 tasks left.
+It is 21th day. 9 AM and I'm in good mood. I'm studying right now. There is 460 tasks done and 240 tasks left.
+It is 21th day. 10 AM and I'm in good mood. I'm studying right now. There is 462 tasks done and 238 tasks left.
+It is 21th day. 11 AM and I'm in good mood. I'm studying right now. There is 463 tasks done and 237 tasks left.
+It is 21th day. 12 AM and I'm in good mood. I'm studying right now. There is 465 tasks done and 235 tasks left.
+It is 21th day. 1 PM and I'm in good mood. I'm studying right now. There is 466 tasks done and 234 tasks left.
+It is 21th day. 2 PM and I'm in good mood. I'm studying right now. There is 468 tasks done and 232 tasks left.
+It is 21th day. 3 PM and I'm in good mood. I'm eating right now. There is 468 tasks done and 232 tasks left.
+It is 21th day. 4 PM and I'm in good mood. I'm studying right now. There is 469 tasks done and 231 tasks left.
+It is 21th day. 5 PM and I'm in good mood. I'm studying right now. There is 470 tasks done and 230 tasks left.
+It is 21th day. 6 PM and I'm in good mood. I'm studying right now. There is 471 tasks done and 229 tasks left.
+It is 21th day. 7 PM and I'm in good mood. I'm walking right now. There is 471 tasks done and 229 tasks left.
+It is 21th day. 8 PM and I'm in good mood. I'm walking right now. There is 471 tasks done and 229 tasks left.
+It is 21th day. 9 PM and I'm in good mood. It's time for family. right now. There is 471 tasks done and 229 tasks left.
+It is 21th day. 10 PM and I'm in good mood. I'm eating right now. There is 471 tasks done and 229 tasks left.
+It is 21th day. 11 PM and I'm in good mood. It's time for beer. right now. There is 471 tasks done and 229 tasks left.
+It is 21th day. 0 PM and I'm in good mood. It's time for beer. right now. There is 471 tasks done and 229 tasks left.
+Sweet dreams!
+Haha, good grade for test :)
+It is 22th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 471 tasks done and 229 tasks left.
+It is 22th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 471 tasks done and 229 tasks left.
+It is 22th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 471 tasks done and 229 tasks left.
+It is 22th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 471 tasks done and 229 tasks left.
+It is 22th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 471 tasks done and 229 tasks left.
+It is 22th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 471 tasks done and 229 tasks left.
+It is 22th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 471 tasks done and 229 tasks left.
+It is 22th day. 8 AM and I'm in good mood. I'm eating right now. There is 471 tasks done and 229 tasks left.
+Haha, good grade for test :)
+It is 22th day. 9 AM and I'm in good mood. I'm studying right now. There is 475 tasks done and 225 tasks left.
+It is 22th day. 10 AM and I'm in good mood. I'm studying right now. There is 476 tasks done and 224 tasks left.
+It is 22th day. 11 AM and I'm in good mood. I'm studying right now. There is 480 tasks done and 220 tasks left.
+Haha, good grade for test :)
+It is 22th day. 12 AM and I'm in good mood. I'm studying right now. There is 484 tasks done and 216 tasks left.
+It is 22th day. 1 PM and I'm in good mood. I'm studying right now. There is 485 tasks done and 215 tasks left.
+Oh, bad grade for test :( Delay because of the bad mood
+It is 22th day. 2 PM and I'm in bad mood. I'm studying right now. There is 481 tasks done and 219 tasks left.
+It is 22th day. 3 PM and I'm in bad mood. I'm eating right now. There is 481 tasks done and 219 tasks left.
+It is 22th day. 4 PM and I'm in bad mood. I'm studying right now. There is 483 tasks done and 217 tasks left.
+It is 22th day. 5 PM and I'm in bad mood. I'm studying right now. There is 484 tasks done and 216 tasks left.
+It is 22th day. 6 PM and I'm in bad mood. I'm studying right now. There is 489 tasks done and 211 tasks left.
+AIR ALERT!
+It is 22th day. 7 PM and I'm in bad mood. I'm hiding right now. There is 489 tasks done and 211 tasks left.
+Air alert ended!
+It is 22th day. 8 PM and I'm in bad mood. I'm walking right now. There is 489 tasks done and 211 tasks left.
+It is 22th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 489 tasks done and 211 tasks left.
+It is 22th day. 10 PM and I'm in bad mood. I'm eating right now. There is 489 tasks done and 211 tasks left.
+It is 22th day. 11 PM and I'm in bad mood. It's time for whiskey. right now. There is 489 tasks done and 211 tasks left.
+It is 22th day. 0 PM and I'm in bad mood. It's time for whiskey. right now. There is 489 tasks done and 211 tasks left.
+Sweet dreams!
+It is 23th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 489 tasks done and 211 tasks left.
+It is 23th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 489 tasks done and 211 tasks left.
+It is 23th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 489 tasks done and 211 tasks left.
+It is 23th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 489 tasks done and 211 tasks left.
+It is 23th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 489 tasks done and 211 tasks left.
+It is 23th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 489 tasks done and 211 tasks left.
+It is 23th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 489 tasks done and 211 tasks left.
+Haha, good grade for test :)
+It is 23th day. 8 AM and I'm in good mood. I'm eating right now. There is 489 tasks done and 211 tasks left.
+It is 23th day. 9 AM and I'm in good mood. I'm studying right now. There is 494 tasks done and 206 tasks left.
+It is 23th day. 10 AM and I'm in good mood. I'm studying right now. There is 497 tasks done and 203 tasks left.
+It is 23th day. 11 AM and I'm in good mood. I'm studying right now. There is 502 tasks done and 198 tasks left.
+It is 23th day. 12 AM and I'm in good mood. I'm studying right now. There is 505 tasks done and 195 tasks left.
+It is 23th day. 1 PM and I'm in good mood. I'm studying right now. There is 506 tasks done and 194 tasks left.
+It is 23th day. 2 PM and I'm in good mood. I'm studying right now. There is 511 tasks done and 189 tasks left.
+It is 23th day. 3 PM and I'm in good mood. I'm eating right now. There is 511 tasks done and 189 tasks left.
+AIR ALERT!
+It is 23th day. 4 PM and I'm in bad mood. I'm hiding right now. There is 512 tasks done and 188 tasks left.
+It is 23th day. 5 PM and I'm in bad mood. I'm hiding right now. There is 512 tasks done and 188 tasks left.
+Air alert ended!
+It is 23th day. 6 PM and I'm in bad mood. I'm studying right now. There is 516 tasks done and 184 tasks left.
+It is 23th day. 7 PM and I'm in bad mood. I'm walking right now. There is 516 tasks done and 184 tasks left.
+It is 23th day. 8 PM and I'm in bad mood. I'm walking right now. There is 516 tasks done and 184 tasks left.
+It is 23th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 516 tasks done and 184 tasks left.
+It is 23th day. 10 PM and I'm in bad mood. I'm eating right now. There is 516 tasks done and 184 tasks left.
+Haha, good grade for test :)
+It is 23th day. 11 PM and I'm in good mood. It's time for whiskey. right now. There is 516 tasks done and 184 tasks left.
+It is 23th day. 0 PM and I'm in good mood. It's time for beer. right now. There is 516 tasks done and 184 tasks left.
+Sweet dreams!
+Haha, good grade for test :)
+It is 24th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 516 tasks done and 184 tasks left.
+It is 24th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 516 tasks done and 184 tasks left.
+It is 24th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 516 tasks done and 184 tasks left.
+AIR ALERT!
+It is 24th day. 4 AM and I'm in bad mood. I'm hiding right now. There is 516 tasks done and 184 tasks left.
+Air alert ended!
+It is 24th day. 5 AM and I'm in bad mood. I'm sleeping right now. There is 516 tasks done and 184 tasks left.
+It is 24th day. 6 AM and I'm in bad mood. I'm sleeping right now. There is 516 tasks done and 184 tasks left.
+It is 24th day. 7 AM and I'm in bad mood. I'm sleeping right now. There is 516 tasks done and 184 tasks left.
+It is 24th day. 8 AM and I'm in bad mood. I'm eating right now. There is 516 tasks done and 184 tasks left.
+It is 24th day. 9 AM and I'm in bad mood. I'm studying right now. There is 517 tasks done and 183 tasks left.
+It is 24th day. 10 AM and I'm in bad mood. I'm studying right now. There is 520 tasks done and 180 tasks left.
+It is 24th day. 11 AM and I'm in bad mood. I'm studying right now. There is 523 tasks done and 177 tasks left.
+It is 24th day. 12 AM and I'm in bad mood. I'm studying right now. There is 526 tasks done and 174 tasks left.
+It is 24th day. 1 PM and I'm in bad mood. I'm studying right now. There is 531 tasks done and 169 tasks left.
+Haha, good grade for test :)
+It is 24th day. 2 PM and I'm in good mood. I'm studying right now. There is 533 tasks done and 167 tasks left.
+It is 24th day. 3 PM and I'm in good mood. I'm eating right now. There is 533 tasks done and 167 tasks left.
+It is 24th day. 4 PM and I'm in good mood. I'm studying right now. There is 538 tasks done and 162 tasks left.
+It is 24th day. 5 PM and I'm in good mood. I'm studying right now. There is 542 tasks done and 158 tasks left.
+It is 24th day. 6 PM and I'm in good mood. I'm studying right now. There is 544 tasks done and 156 tasks left.
+Oh, bad grade for test :( Delay because of the bad mood
+It is 24th day. 7 PM and I'm in bad mood. I'm walking right now. There is 539 tasks done and 161 tasks left.
+It is 24th day. 8 PM and I'm in bad mood. I'm walking right now. There is 539 tasks done and 161 tasks left.
+It is 24th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 539 tasks done and 161 tasks left.
+It is 24th day. 10 PM and I'm in bad mood. I'm eating right now. There is 539 tasks done and 161 tasks left.
+It is 24th day. 11 PM and I'm in bad mood. It's time for whiskey. right now. There is 539 tasks done and 161 tasks left.
+It is 24th day. 0 PM and I'm in bad mood. It's time for whiskey. right now. There is 539 tasks done and 161 tasks left.
+Sweet dreams!
+It is 25th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 539 tasks done and 161 tasks left.
+It is 25th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 539 tasks done and 161 tasks left.
+It is 25th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 539 tasks done and 161 tasks left.
+It is 25th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 539 tasks done and 161 tasks left.
+It is 25th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 539 tasks done and 161 tasks left.
+It is 25th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 539 tasks done and 161 tasks left.
+It is 25th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 539 tasks done and 161 tasks left.
+It is 25th day. 8 AM and I'm in good mood. I'm eating right now. There is 539 tasks done and 161 tasks left.
+It is 25th day. 9 AM and I'm in good mood. I'm studying right now. There is 541 tasks done and 159 tasks left.
+It is 25th day. 10 AM and I'm in good mood. I'm studying right now. There is 542 tasks done and 158 tasks left.
+It is 25th day. 11 AM and I'm in good mood. I'm studying right now. There is 544 tasks done and 156 tasks left.
+It is 25th day. 12 AM and I'm in good mood. I'm studying right now. There is 549 tasks done and 151 tasks left.
+It is 25th day. 1 PM and I'm in good mood. I'm studying right now. There is 550 tasks done and 150 tasks left.
+It is 25th day. 2 PM and I'm in good mood. I'm studying right now. There is 551 tasks done and 149 tasks left.
+It is 25th day. 3 PM and I'm in good mood. I'm eating right now. There is 551 tasks done and 149 tasks left.
+It is 25th day. 4 PM and I'm in good mood. I'm studying right now. There is 552 tasks done and 148 tasks left.
+It is 25th day. 5 PM and I'm in good mood. I'm studying right now. There is 557 tasks done and 143 tasks left.
+It is 25th day. 6 PM and I'm in good mood. I'm studying right now. There is 560 tasks done and 140 tasks left.
+It is 25th day. 7 PM and I'm in good mood. I'm walking right now. There is 560 tasks done and 140 tasks left.
+It is 25th day. 8 PM and I'm in good mood. I'm walking right now. There is 560 tasks done and 140 tasks left.
+It is 25th day. 9 PM and I'm in good mood. It's time for family. right now. There is 560 tasks done and 140 tasks left.
+It is 25th day. 10 PM and I'm in good mood. I'm eating right now. There is 560 tasks done and 140 tasks left.
+It is 25th day. 11 PM and I'm in good mood. It's time for beer. right now. There is 560 tasks done and 140 tasks left.
+Haha, good grade for test :)
+It is 25th day. 0 PM and I'm in good mood. It's time for beer. right now. There is 560 tasks done and 140 tasks left.
+Sweet dreams!
+It is 26th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 560 tasks done and 140 tasks left.
+It is 26th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 560 tasks done and 140 tasks left.
+It is 26th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 560 tasks done and 140 tasks left.
+It is 26th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 560 tasks done and 140 tasks left.
+It is 26th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 560 tasks done and 140 tasks left.
+It is 26th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 560 tasks done and 140 tasks left.
+It is 26th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 560 tasks done and 140 tasks left.
+It is 26th day. 8 AM and I'm in good mood. I'm eating right now. There is 560 tasks done and 140 tasks left.
+It is 26th day. 9 AM and I'm in good mood. I'm studying right now. There is 564 tasks done and 136 tasks left.
+It is 26th day. 10 AM and I'm in good mood. I'm studying right now. There is 565 tasks done and 135 tasks left.
+It is 26th day. 11 AM and I'm in good mood. I'm studying right now. There is 567 tasks done and 133 tasks left.
+It is 26th day. 12 AM and I'm in good mood. I'm studying right now. There is 571 tasks done and 129 tasks left.
+It is 26th day. 1 PM and I'm in good mood. I'm studying right now. There is 575 tasks done and 125 tasks left.
+It is 26th day. 2 PM and I'm in good mood. I'm studying right now. There is 579 tasks done and 121 tasks left.
+It is 26th day. 3 PM and I'm in good mood. I'm eating right now. There is 579 tasks done and 121 tasks left.
+Oh, bad grade for test :( Delay because of the bad mood
+It is 26th day. 4 PM and I'm in bad mood. I'm studying right now. There is 578 tasks done and 122 tasks left.
+It is 26th day. 5 PM and I'm in bad mood. I'm studying right now. There is 581 tasks done and 119 tasks left.
+Haha, good grade for test :)
+It is 26th day. 6 PM and I'm in good mood. I'm studying right now. There is 583 tasks done and 117 tasks left.
+Haha, good grade for test :)
+It is 26th day. 7 PM and I'm in good mood. I'm walking right now. There is 583 tasks done and 117 tasks left.
+It is 26th day. 8 PM and I'm in good mood. I'm walking right now. There is 583 tasks done and 117 tasks left.
+It is 26th day. 9 PM and I'm in good mood. It's time for family. right now. There is 583 tasks done and 117 tasks left.
+It is 26th day. 10 PM and I'm in good mood. I'm eating right now. There is 583 tasks done and 117 tasks left.
+It is 26th day. 11 PM and I'm in good mood. It's time for beer. right now. There is 583 tasks done and 117 tasks left.
+AIR ALERT!
+It is 26th day. 0 PM and I'm in bad mood. I'm hiding right now. There is 583 tasks done and 117 tasks left.
+Sweet dreams!
+Air alert ended!
+It is 27th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 583 tasks done and 117 tasks left.
+It is 27th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 583 tasks done and 117 tasks left.
+It is 27th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 583 tasks done and 117 tasks left.
+It is 27th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 583 tasks done and 117 tasks left.
+It is 27th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 583 tasks done and 117 tasks left.
+It is 27th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 583 tasks done and 117 tasks left.
+It is 27th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 583 tasks done and 117 tasks left.
+It is 27th day. 8 AM and I'm in good mood. I'm eating right now. There is 583 tasks done and 117 tasks left.
+It is 27th day. 9 AM and I'm in good mood. I'm studying right now. There is 584 tasks done and 116 tasks left.
+It is 27th day. 10 AM and I'm in good mood. I'm studying right now. There is 585 tasks done and 115 tasks left.
+It is 27th day. 11 AM and I'm in good mood. I'm studying right now. There is 587 tasks done and 113 tasks left.
+It is 27th day. 12 AM and I'm in good mood. I'm studying right now. There is 588 tasks done and 112 tasks left.
+It is 27th day. 1 PM and I'm in good mood. I'm studying right now. There is 592 tasks done and 108 tasks left.
+It is 27th day. 2 PM and I'm in good mood. I'm studying right now. There is 594 tasks done and 106 tasks left.
+It is 27th day. 3 PM and I'm in good mood. I'm eating right now. There is 594 tasks done and 106 tasks left.
+It is 27th day. 4 PM and I'm in good mood. I'm studying right now. There is 596 tasks done and 104 tasks left.
+Oh, bad grade for test :( Delay because of the bad mood
+It is 27th day. 5 PM and I'm in bad mood. I'm studying right now. There is 595 tasks done and 105 tasks left.
+It is 27th day. 6 PM and I'm in bad mood. I'm studying right now. There is 599 tasks done and 101 tasks left.
+It is 27th day. 7 PM and I'm in bad mood. I'm walking right now. There is 599 tasks done and 101 tasks left.
+It is 27th day. 8 PM and I'm in bad mood. I'm walking right now. There is 599 tasks done and 101 tasks left.
+Haha, good grade for test :)
+It is 27th day. 9 PM and I'm in good mood. It's time for family. right now. There is 599 tasks done and 101 tasks left.
+It is 27th day. 10 PM and I'm in good mood. I'm eating right now. There is 599 tasks done and 101 tasks left.
+It is 27th day. 11 PM and I'm in good mood. It's time for beer. right now. There is 599 tasks done and 101 tasks left.
+It is 27th day. 0 PM and I'm in good mood. It's time for beer. right now. There is 599 tasks done and 101 tasks left.
+Sweet dreams!
+It is 28th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 599 tasks done and 101 tasks left.
+It is 28th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 599 tasks done and 101 tasks left.
+It is 28th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 599 tasks done and 101 tasks left.
+It is 28th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 599 tasks done and 101 tasks left.
+It is 28th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 599 tasks done and 101 tasks left.
+It is 28th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 599 tasks done and 101 tasks left.
+It is 28th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 599 tasks done and 101 tasks left.
+It is 28th day. 8 AM and I'm in good mood. I'm eating right now. There is 599 tasks done and 101 tasks left.
+It is 28th day. 9 AM and I'm in good mood. I'm studying right now. There is 602 tasks done and 98 tasks left.
+It is 28th day. 10 AM and I'm in good mood. I'm studying right now. There is 603 tasks done and 97 tasks left.
+It is 28th day. 11 AM and I'm in good mood. I'm studying right now. There is 608 tasks done and 92 tasks left.
+It is 28th day. 12 AM and I'm in good mood. I'm studying right now. There is 612 tasks done and 88 tasks left.
+It is 28th day. 1 PM and I'm in good mood. I'm studying right now. There is 615 tasks done and 85 tasks left.
+It is 28th day. 2 PM and I'm in good mood. I'm studying right now. There is 618 tasks done and 82 tasks left.
+Haha, good grade for test :)
+It is 28th day. 3 PM and I'm in good mood. I'm eating right now. There is 618 tasks done and 82 tasks left.
+It is 28th day. 4 PM and I'm in good mood. I'm studying right now. There is 621 tasks done and 79 tasks left.
+Haha, good grade for test :)
+It is 28th day. 5 PM and I'm in good mood. I'm studying right now. There is 623 tasks done and 77 tasks left.
+Oh, bad grade for test :( Delay because of the bad mood
+It is 28th day. 6 PM and I'm in bad mood. I'm studying right now. There is 623 tasks done and 77 tasks left.
+It is 28th day. 7 PM and I'm in bad mood. I'm walking right now. There is 623 tasks done and 77 tasks left.
+It is 28th day. 8 PM and I'm in bad mood. I'm walking right now. There is 623 tasks done and 77 tasks left.
+It is 28th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 623 tasks done and 77 tasks left.
+It is 28th day. 10 PM and I'm in bad mood. I'm eating right now. There is 623 tasks done and 77 tasks left.
+It is 28th day. 11 PM and I'm in bad mood. It's time for whiskey. right now. There is 623 tasks done and 77 tasks left.
+It is 28th day. 0 PM and I'm in bad mood. It's time for whiskey. right now. There is 623 tasks done and 77 tasks left.
+Sweet dreams!
+It is 29th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 623 tasks done and 77 tasks left.
+It is 29th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 623 tasks done and 77 tasks left.
+It is 29th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 623 tasks done and 77 tasks left.
+AIR ALERT!
+It is 29th day. 4 AM and I'm in bad mood. I'm hiding right now. There is 623 tasks done and 77 tasks left.
+Air alert ended!
+It is 29th day. 5 AM and I'm in bad mood. I'm sleeping right now. There is 623 tasks done and 77 tasks left.
+It is 29th day. 6 AM and I'm in bad mood. I'm sleeping right now. There is 623 tasks done and 77 tasks left.
+It is 29th day. 7 AM and I'm in bad mood. I'm sleeping right now. There is 623 tasks done and 77 tasks left.
+It is 29th day. 8 AM and I'm in bad mood. I'm eating right now. There is 623 tasks done and 77 tasks left.
+It is 29th day. 9 AM and I'm in bad mood. I'm studying right now. There is 626 tasks done and 74 tasks left.
+It is 29th day. 10 AM and I'm in bad mood. I'm studying right now. There is 627 tasks done and 73 tasks left.
+It is 29th day. 11 AM and I'm in bad mood. I'm studying right now. There is 630 tasks done and 70 tasks left.
+It is 29th day. 12 AM and I'm in bad mood. I'm studying right now. There is 631 tasks done and 69 tasks left.
+It is 29th day. 1 PM and I'm in bad mood. I'm studying right now. There is 632 tasks done and 68 tasks left.
+It is 29th day. 2 PM and I'm in bad mood. I'm studying right now. There is 637 tasks done and 63 tasks left.
+It is 29th day. 3 PM and I'm in bad mood. I'm eating right now. There is 637 tasks done and 63 tasks left.
+It is 29th day. 4 PM and I'm in bad mood. I'm studying right now. There is 642 tasks done and 58 tasks left.
+It is 29th day. 5 PM and I'm in bad mood. I'm studying right now. There is 646 tasks done and 54 tasks left.
+It is 29th day. 6 PM and I'm in bad mood. I'm studying right now. There is 651 tasks done and 49 tasks left.
+It is 29th day. 7 PM and I'm in bad mood. I'm walking right now. There is 651 tasks done and 49 tasks left.
+It is 29th day. 8 PM and I'm in bad mood. I'm walking right now. There is 651 tasks done and 49 tasks left.
+It is 29th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 651 tasks done and 49 tasks left.
+It is 29th day. 10 PM and I'm in bad mood. I'm eating right now. There is 651 tasks done and 49 tasks left.
+It is 29th day. 11 PM and I'm in bad mood. It's time for whiskey. right now. There is 651 tasks done and 49 tasks left.
+It is 29th day. 0 PM and I'm in bad mood. It's time for whiskey. right now. There is 651 tasks done and 49 tasks left.
+Sweet dreams!
+It is 30th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 651 tasks done and 49 tasks left.
+It is 30th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 651 tasks done and 49 tasks left.
+It is 30th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 651 tasks done and 49 tasks left.
+It is 30th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 651 tasks done and 49 tasks left.
+It is 30th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 651 tasks done and 49 tasks left.
+It is 30th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 651 tasks done and 49 tasks left.
+It is 30th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 651 tasks done and 49 tasks left.
+It is 30th day. 8 AM and I'm in good mood. I'm eating right now. There is 651 tasks done and 49 tasks left.
+It is 30th day. 9 AM and I'm in good mood. I'm studying right now. There is 653 tasks done and 47 tasks left.
+It is 30th day. 10 AM and I'm in good mood. I'm studying right now. There is 655 tasks done and 45 tasks left.
+It is 30th day. 11 AM and I'm in good mood. I'm studying right now. There is 660 tasks done and 40 tasks left.
+It is 30th day. 12 AM and I'm in good mood. I'm studying right now. There is 663 tasks done and 37 tasks left.
+It is 30th day. 1 PM and I'm in good mood. I'm studying right now. There is 667 tasks done and 33 tasks left.
+It is 30th day. 2 PM and I'm in good mood. I'm studying right now. There is 669 tasks done and 31 tasks left.
+Haha, good grade for test :)
+It is 30th day. 3 PM and I'm in good mood. I'm eating right now. There is 669 tasks done and 31 tasks left.
+AIR ALERT!
+It is 30th day. 4 PM and I'm in bad mood. I'm hiding right now. There is 671 tasks done and 29 tasks left.
+Air alert ended!
+It is 30th day. 5 PM and I'm in bad mood. I'm studying right now. There is 673 tasks done and 27 tasks left.
+It is 30th day. 6 PM and I'm in bad mood. I'm studying right now. There is 678 tasks done and 22 tasks left.
+It is 30th day. 7 PM and I'm in bad mood. I'm walking right now. There is 678 tasks done and 22 tasks left.
+It is 30th day. 8 PM and I'm in bad mood. I'm walking right now. There is 678 tasks done and 22 tasks left.
+It is 30th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 678 tasks done and 22 tasks left.
+It is 30th day. 10 PM and I'm in bad mood. I'm eating right now. There is 678 tasks done and 22 tasks left.
+It is 30th day. 11 PM and I'm in bad mood. It's time for whiskey. right now. There is 678 tasks done and 22 tasks left.
+Oh, bad grade for test :( Delay because of the bad mood
+It is 30th day. 0 PM and I'm in bad mood. It's time for whiskey. right now. There is 673 tasks done and 27 tasks left.
+Sweet dreams!
+
+Task failed successfully
+
+
+
+This is a simulation of me completing some project. I have to make 700 tasks to complete project successfully. I do 10 task during studying, and lose time if some bad events happens.
+We will begin in 10 seconds
+We will begin in 9 seconds
+We will begin in 8 seconds
+We will begin in 7 seconds
+We will begin in 6 seconds
+We will begin in 5 seconds
+We will begin in 4 seconds
+We will begin in 3 seconds
+We will begin in 2 seconds
+We will begin in 1 seconds
+We will begin in 0 seconds
+
+          Let's go!
+
+
+It is 1th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 0 tasks done and 700 tasks left.
+It is 1th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 0 tasks done and 700 tasks left.
+It is 1th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 0 tasks done and 700 tasks left.
+It is 1th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 0 tasks done and 700 tasks left.
+It is 1th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 0 tasks done and 700 tasks left.
+It is 1th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 0 tasks done and 700 tasks left.
+It is 1th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 0 tasks done and 700 tasks left.
+It is 1th day. 8 AM and I'm in good mood. I'm eating right now. There is 0 tasks done and 700 tasks left.
+Haha, good grade for test :)
+It is 1th day. 9 AM and I'm in good mood. I'm studying right now. There is 6 tasks done and 694 tasks left.
+It is 1th day. 10 AM and I'm in good mood. I'm studying right now. There is 9 tasks done and 691 tasks left.
+Haha, good grade for test :)
+It is 1th day. 11 AM and I'm in good mood. I'm studying right now. There is 13 tasks done and 687 tasks left.
+Haha, good grade for test :)
+It is 1th day. 12 AM and I'm in good mood. I'm studying right now. There is 16 tasks done and 684 tasks left.
+It is 1th day. 1 PM and I'm in good mood. I'm studying right now. There is 19 tasks done and 681 tasks left.
+It is 1th day. 2 PM and I'm in good mood. I'm studying right now. There is 25 tasks done and 675 tasks left.
+It is 1th day. 3 PM and I'm in good mood. I'm eating right now. There is 25 tasks done and 675 tasks left.
+It is 1th day. 4 PM and I'm in good mood. I'm studying right now. There is 29 tasks done and 671 tasks left.
+It is 1th day. 5 PM and I'm in good mood. I'm studying right now. There is 35 tasks done and 665 tasks left.
+It is 1th day. 6 PM and I'm in good mood. I'm studying right now. There is 38 tasks done and 662 tasks left.
+It is 1th day. 7 PM and I'm in good mood. I'm walking right now. There is 38 tasks done and 662 tasks left.
+It is 1th day. 8 PM and I'm in good mood. I'm walking right now. There is 38 tasks done and 662 tasks left.
+It is 1th day. 9 PM and I'm in good mood. It's time for family. right now. There is 38 tasks done and 662 tasks left.
+It is 1th day. 10 PM and I'm in good mood. I'm eating right now. There is 38 tasks done and 662 tasks left.
+It is 1th day. 11 PM and I'm in good mood. It's time for beer. right now. There is 38 tasks done and 662 tasks left.
+It is 1th day. 0 PM and I'm in good mood. It's time for beer. right now. There is 38 tasks done and 662 tasks left.
+Sweet dreams!
+It is 2th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 38 tasks done and 662 tasks left.
+It is 2th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 38 tasks done and 662 tasks left.
+It is 2th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 38 tasks done and 662 tasks left.
+It is 2th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 38 tasks done and 662 tasks left.
+It is 2th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 38 tasks done and 662 tasks left.
+It is 2th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 38 tasks done and 662 tasks left.
+It is 2th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 38 tasks done and 662 tasks left.
+It is 2th day. 8 AM and I'm in good mood. I'm eating right now. There is 38 tasks done and 662 tasks left.
+It is 2th day. 9 AM and I'm in good mood. I'm studying right now. There is 41 tasks done and 659 tasks left.
+It is 2th day. 10 AM and I'm in good mood. I'm studying right now. There is 46 tasks done and 654 tasks left.
+It is 2th day. 11 AM and I'm in good mood. I'm studying right now. There is 49 tasks done and 651 tasks left.
+It is 2th day. 12 AM and I'm in good mood. I'm studying right now. There is 55 tasks done and 645 tasks left.
+Haha, good grade for test :)
+It is 2th day. 1 PM and I'm in good mood. I'm studying right now. There is 61 tasks done and 639 tasks left.
+It is 2th day. 2 PM and I'm in good mood. I'm studying right now. There is 67 tasks done and 633 tasks left.
+It is 2th day. 3 PM and I'm in good mood. I'm eating right now. There is 67 tasks done and 633 tasks left.
+It is 2th day. 4 PM and I'm in good mood. I'm studying right now. There is 71 tasks done and 629 tasks left.
+It is 2th day. 5 PM and I'm in good mood. I'm studying right now. There is 74 tasks done and 626 tasks left.
+It is 2th day. 6 PM and I'm in good mood. I'm studying right now. There is 78 tasks done and 622 tasks left.
+It is 2th day. 7 PM and I'm in good mood. I'm walking right now. There is 78 tasks done and 622 tasks left.
+AIR ALERT!
+It is 2th day. 8 PM and I'm in bad mood. I'm hiding right now. There is 78 tasks done and 622 tasks left.
+It is 2th day. 9 PM and I'm in bad mood. I'm hiding right now. There is 78 tasks done and 622 tasks left.
+Air alert ended!
+Haha, good grade for test :)
+It is 2th day. 10 PM and I'm in good mood. I'm eating right now. There is 78 tasks done and 622 tasks left.
+It is 2th day. 11 PM and I'm in good mood. It's time for beer. right now. There is 78 tasks done and 622 tasks left.
+It is 2th day. 0 PM and I'm in good mood. It's time for beer. right now. There is 78 tasks done and 622 tasks left.
+Sweet dreams!
+Haha, good grade for test :)
+It is 3th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 78 tasks done and 622 tasks left.
+It is 3th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 78 tasks done and 622 tasks left.
+It is 3th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 78 tasks done and 622 tasks left.
+It is 3th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 78 tasks done and 622 tasks left.
+It is 3th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 78 tasks done and 622 tasks left.
+It is 3th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 78 tasks done and 622 tasks left.
+It is 3th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 78 tasks done and 622 tasks left.
+It is 3th day. 8 AM and I'm in good mood. I'm eating right now. There is 78 tasks done and 622 tasks left.
+It is 3th day. 9 AM and I'm in good mood. I'm studying right now. There is 82 tasks done and 618 tasks left.
+It is 3th day. 10 AM and I'm in good mood. I'm studying right now. There is 85 tasks done and 615 tasks left.
+It is 3th day. 11 AM and I'm in good mood. I'm studying right now. There is 90 tasks done and 610 tasks left.
+It is 3th day. 12 AM and I'm in good mood. I'm studying right now. There is 95 tasks done and 605 tasks left.
+It is 3th day. 1 PM and I'm in good mood. I'm studying right now. There is 98 tasks done and 602 tasks left.
+It is 3th day. 2 PM and I'm in good mood. I'm studying right now. There is 103 tasks done and 597 tasks left.
+Haha, good grade for test :)
+It is 3th day. 3 PM and I'm in good mood. I'm eating right now. There is 103 tasks done and 597 tasks left.
+Oh, bad grade for test :( Delay because of the bad mood
+It is 3th day. 4 PM and I'm in bad mood. I'm studying right now. There is 104 tasks done and 596 tasks left.
+It is 3th day. 5 PM and I'm in bad mood. I'm studying right now. There is 110 tasks done and 590 tasks left.
+Oh, bad grade for test :( Delay because of the bad mood
+It is 3th day. 6 PM and I'm in bad mood. I'm studying right now. There is 111 tasks done and 589 tasks left.
+It is 3th day. 7 PM and I'm in bad mood. I'm walking right now. There is 111 tasks done and 589 tasks left.
+It is 3th day. 8 PM and I'm in bad mood. I'm walking right now. There is 111 tasks done and 589 tasks left.
+It is 3th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 111 tasks done and 589 tasks left.
+It is 3th day. 10 PM and I'm in bad mood. I'm eating right now. There is 111 tasks done and 589 tasks left.
+Haha, good grade for test :)
+It is 3th day. 11 PM and I'm in good mood. It's time for whiskey. right now. There is 111 tasks done and 589 tasks left.
+It is 3th day. 0 PM and I'm in good mood. It's time for beer. right now. There is 111 tasks done and 589 tasks left.
+Sweet dreams!
+It is 4th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 111 tasks done and 589 tasks left.
+It is 4th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 111 tasks done and 589 tasks left.
+It is 4th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 111 tasks done and 589 tasks left.
+It is 4th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 111 tasks done and 589 tasks left.
+It is 4th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 111 tasks done and 589 tasks left.
+It is 4th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 111 tasks done and 589 tasks left.
+It is 4th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 111 tasks done and 589 tasks left.
+It is 4th day. 8 AM and I'm in good mood. I'm eating right now. There is 111 tasks done and 589 tasks left.
+AIR ALERT!
+It is 4th day. 9 AM and I'm in bad mood. I'm hiding right now. There is 117 tasks done and 583 tasks left.
+Air alert ended!
+Haha, good grade for test :)
+It is 4th day. 10 AM and I'm in good mood. I'm studying right now. There is 122 tasks done and 578 tasks left.
+It is 4th day. 11 AM and I'm in good mood. I'm studying right now. There is 126 tasks done and 574 tasks left.
+It is 4th day. 12 AM and I'm in good mood. I'm studying right now. There is 130 tasks done and 570 tasks left.
+It is 4th day. 1 PM and I'm in good mood. I'm studying right now. There is 133 tasks done and 567 tasks left.
+Haha, good grade for test :)
+It is 4th day. 2 PM and I'm in good mood. I'm studying right now. There is 139 tasks done and 561 tasks left.
+Oh, bad grade for test :( Delay because of the bad mood
+It is 4th day. 3 PM and I'm in bad mood. I'm eating right now. There is 134 tasks done and 566 tasks left.
+AIR ALERT!
+It is 4th day. 4 PM and I'm in bad mood. I'm hiding right now. There is 139 tasks done and 561 tasks left.
+Air alert ended!
+Haha, good grade for test :)
+It is 4th day. 5 PM and I'm in good mood. I'm studying right now. There is 143 tasks done and 557 tasks left.
+It is 4th day. 6 PM and I'm in good mood. I'm studying right now. There is 148 tasks done and 552 tasks left.
+It is 4th day. 7 PM and I'm in good mood. I'm walking right now. There is 148 tasks done and 552 tasks left.
+Haha, good grade for test :)
+It is 4th day. 8 PM and I'm in good mood. I'm walking right now. There is 148 tasks done and 552 tasks left.
+It is 4th day. 9 PM and I'm in good mood. It's time for family. right now. There is 148 tasks done and 552 tasks left.
+It is 4th day. 10 PM and I'm in good mood. I'm eating right now. There is 148 tasks done and 552 tasks left.
+It is 4th day. 11 PM and I'm in good mood. It's time for beer. right now. There is 148 tasks done and 552 tasks left.
+It is 4th day. 0 PM and I'm in good mood. It's time for beer. right now. There is 148 tasks done and 552 tasks left.
+Sweet dreams!
+Haha, good grade for test :)
+It is 5th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 148 tasks done and 552 tasks left.
+It is 5th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 148 tasks done and 552 tasks left.
+It is 5th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 148 tasks done and 552 tasks left.
+It is 5th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 148 tasks done and 552 tasks left.
+It is 5th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 148 tasks done and 552 tasks left.
+It is 5th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 148 tasks done and 552 tasks left.
+It is 5th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 148 tasks done and 552 tasks left.
+It is 5th day. 8 AM and I'm in good mood. I'm eating right now. There is 148 tasks done and 552 tasks left.
+It is 5th day. 9 AM and I'm in good mood. I'm studying right now. There is 151 tasks done and 549 tasks left.
+It is 5th day. 10 AM and I'm in good mood. I'm studying right now. There is 155 tasks done and 545 tasks left.
+It is 5th day. 11 AM and I'm in good mood. I'm studying right now. There is 161 tasks done and 539 tasks left.
+It is 5th day. 12 AM and I'm in good mood. I'm studying right now. There is 167 tasks done and 533 tasks left.
+It is 5th day. 1 PM and I'm in good mood. I'm studying right now. There is 172 tasks done and 528 tasks left.
+It is 5th day. 2 PM and I'm in good mood. I'm studying right now. There is 178 tasks done and 522 tasks left.
+AIR ALERT!
+It is 5th day. 3 PM and I'm in bad mood. I'm hiding right now. There is 178 tasks done and 522 tasks left.
+Air alert ended!
+It is 5th day. 4 PM and I'm in bad mood. I'm studying right now. There is 181 tasks done and 519 tasks left.
+It is 5th day. 5 PM and I'm in bad mood. I'm studying right now. There is 187 tasks done and 513 tasks left.
+It is 5th day. 6 PM and I'm in bad mood. I'm studying right now. There is 193 tasks done and 507 tasks left.
+It is 5th day. 7 PM and I'm in bad mood. I'm walking right now. There is 193 tasks done and 507 tasks left.
+Haha, good grade for test :)
+It is 5th day. 8 PM and I'm in good mood. I'm walking right now. There is 193 tasks done and 507 tasks left.
+It is 5th day. 9 PM and I'm in good mood. It's time for family. right now. There is 193 tasks done and 507 tasks left.
+It is 5th day. 10 PM and I'm in good mood. I'm eating right now. There is 193 tasks done and 507 tasks left.
+It is 5th day. 11 PM and I'm in good mood. It's time for beer. right now. There is 193 tasks done and 507 tasks left.
+It is 5th day. 0 PM and I'm in good mood. It's time for beer. right now. There is 193 tasks done and 507 tasks left.
+Sweet dreams!
+It is 6th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 193 tasks done and 507 tasks left.
+It is 6th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 193 tasks done and 507 tasks left.
+It is 6th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 193 tasks done and 507 tasks left.
+It is 6th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 193 tasks done and 507 tasks left.
+It is 6th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 193 tasks done and 507 tasks left.
+It is 6th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 193 tasks done and 507 tasks left.
+It is 6th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 193 tasks done and 507 tasks left.
+It is 6th day. 8 AM and I'm in good mood. I'm eating right now. There is 193 tasks done and 507 tasks left.
+It is 6th day. 9 AM and I'm in good mood. I'm studying right now. There is 196 tasks done and 504 tasks left.
+It is 6th day. 10 AM and I'm in good mood. I'm studying right now. There is 200 tasks done and 500 tasks left.
+Haha, good grade for test :)
+It is 6th day. 11 AM and I'm in good mood. I'm studying right now. There is 206 tasks done and 494 tasks left.
+It is 6th day. 12 AM and I'm in good mood. I'm studying right now. There is 210 tasks done and 490 tasks left.
+It is 6th day. 1 PM and I'm in good mood. I'm studying right now. There is 215 tasks done and 485 tasks left.
+Oh, bad grade for test :( Delay because of the bad mood
+It is 6th day. 2 PM and I'm in bad mood. I'm studying right now. There is 213 tasks done and 487 tasks left.
+It is 6th day. 3 PM and I'm in bad mood. I'm eating right now. There is 213 tasks done and 487 tasks left.
+It is 6th day. 4 PM and I'm in bad mood. I'm studying right now. There is 219 tasks done and 481 tasks left.
+It is 6th day. 5 PM and I'm in bad mood. I'm studying right now. There is 225 tasks done and 475 tasks left.
+It is 6th day. 6 PM and I'm in bad mood. I'm studying right now. There is 229 tasks done and 471 tasks left.
+It is 6th day. 7 PM and I'm in bad mood. I'm walking right now. There is 229 tasks done and 471 tasks left.
+It is 6th day. 8 PM and I'm in bad mood. I'm walking right now. There is 229 tasks done and 471 tasks left.
+It is 6th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 229 tasks done and 471 tasks left.
+It is 6th day. 10 PM and I'm in bad mood. I'm eating right now. There is 229 tasks done and 471 tasks left.
+It is 6th day. 11 PM and I'm in bad mood. It's time for whiskey. right now. There is 229 tasks done and 471 tasks left.
+It is 6th day. 0 PM and I'm in bad mood. It's time for whiskey. right now. There is 229 tasks done and 471 tasks left.
+Sweet dreams!
+It is 7th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 229 tasks done and 471 tasks left.
+It is 7th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 229 tasks done and 471 tasks left.
+It is 7th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 229 tasks done and 471 tasks left.
+It is 7th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 229 tasks done and 471 tasks left.
+It is 7th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 229 tasks done and 471 tasks left.
+It is 7th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 229 tasks done and 471 tasks left.
+It is 7th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 229 tasks done and 471 tasks left.
+It is 7th day. 8 AM and I'm in good mood. I'm eating right now. There is 229 tasks done and 471 tasks left.
+It is 7th day. 9 AM and I'm in good mood. I'm studying right now. There is 234 tasks done and 466 tasks left.
+It is 7th day. 10 AM and I'm in good mood. I'm studying right now. There is 239 tasks done and 461 tasks left.
+It is 7th day. 11 AM and I'm in good mood. I'm studying right now. There is 245 tasks done and 455 tasks left.
+It is 7th day. 12 AM and I'm in good mood. I'm studying right now. There is 250 tasks done and 450 tasks left.
+It is 7th day. 1 PM and I'm in good mood. I'm studying right now. There is 253 tasks done and 447 tasks left.
+It is 7th day. 2 PM and I'm in good mood. I'm studying right now. There is 257 tasks done and 443 tasks left.
+It is 7th day. 3 PM and I'm in good mood. I'm eating right now. There is 257 tasks done and 443 tasks left.
+It is 7th day. 4 PM and I'm in good mood. I'm studying right now. There is 261 tasks done and 439 tasks left.
+It is 7th day. 5 PM and I'm in good mood. I'm studying right now. There is 266 tasks done and 434 tasks left.
+It is 7th day. 6 PM and I'm in good mood. I'm studying right now. There is 272 tasks done and 428 tasks left.
+It is 7th day. 7 PM and I'm in good mood. I'm walking right now. There is 272 tasks done and 428 tasks left.
+It is 7th day. 8 PM and I'm in good mood. I'm walking right now. There is 272 tasks done and 428 tasks left.
+Haha, good grade for test :)
+It is 7th day. 9 PM and I'm in good mood. It's time for family. right now. There is 272 tasks done and 428 tasks left.
+It is 7th day. 10 PM and I'm in good mood. I'm eating right now. There is 272 tasks done and 428 tasks left.
+Haha, good grade for test :)
+It is 7th day. 11 PM and I'm in good mood. It's time for beer. right now. There is 272 tasks done and 428 tasks left.
+It is 7th day. 0 PM and I'm in good mood. It's time for beer. right now. There is 272 tasks done and 428 tasks left.
+Sweet dreams!
+Haha, good grade for test :)
+It is 8th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 272 tasks done and 428 tasks left.
+It is 8th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 272 tasks done and 428 tasks left.
+It is 8th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 272 tasks done and 428 tasks left.
+It is 8th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 272 tasks done and 428 tasks left.
+It is 8th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 272 tasks done and 428 tasks left.
+It is 8th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 272 tasks done and 428 tasks left.
+It is 8th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 272 tasks done and 428 tasks left.
+It is 8th day. 8 AM and I'm in good mood. I'm eating right now. There is 272 tasks done and 428 tasks left.
+AIR ALERT!
+It is 8th day. 9 AM and I'm in bad mood. I'm hiding right now. There is 276 tasks done and 424 tasks left.
+It is 8th day. 10 AM and I'm in bad mood. I'm hiding right now. There is 276 tasks done and 424 tasks left.
+It is 8th day. 11 AM and I'm in bad mood. I'm hiding right now. There is 276 tasks done and 424 tasks left.
+Air alert ended!
+It is 8th day. 12 AM and I'm in bad mood. I'm studying right now. There is 281 tasks done and 419 tasks left.
+It is 8th day. 1 PM and I'm in bad mood. I'm studying right now. There is 286 tasks done and 414 tasks left.
+Haha, good grade for test :)
+It is 8th day. 2 PM and I'm in good mood. I'm studying right now. There is 291 tasks done and 409 tasks left.
+It is 8th day. 3 PM and I'm in good mood. I'm eating right now. There is 291 tasks done and 409 tasks left.
+It is 8th day. 4 PM and I'm in good mood. I'm studying right now. There is 294 tasks done and 406 tasks left.
+Haha, good grade for test :)
+It is 8th day. 5 PM and I'm in good mood. I'm studying right now. There is 300 tasks done and 400 tasks left.
+It is 8th day. 6 PM and I'm in good mood. I'm studying right now. There is 304 tasks done and 396 tasks left.
+It is 8th day. 7 PM and I'm in good mood. I'm walking right now. There is 304 tasks done and 396 tasks left.
+AIR ALERT!
+It is 8th day. 8 PM and I'm in bad mood. I'm hiding right now. There is 304 tasks done and 396 tasks left.
+Air alert ended!
+It is 8th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 304 tasks done and 396 tasks left.
+It is 8th day. 10 PM and I'm in bad mood. I'm eating right now. There is 304 tasks done and 396 tasks left.
+It is 8th day. 11 PM and I'm in bad mood. It's time for whiskey. right now. There is 304 tasks done and 396 tasks left.
+It is 8th day. 0 PM and I'm in bad mood. It's time for whiskey. right now. There is 304 tasks done and 396 tasks left.
+Sweet dreams!
+It is 9th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 304 tasks done and 396 tasks left.
+It is 9th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 304 tasks done and 396 tasks left.
+It is 9th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 304 tasks done and 396 tasks left.
+It is 9th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 304 tasks done and 396 tasks left.
+It is 9th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 304 tasks done and 396 tasks left.
+It is 9th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 304 tasks done and 396 tasks left.
+It is 9th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 304 tasks done and 396 tasks left.
+It is 9th day. 8 AM and I'm in good mood. I'm eating right now. There is 304 tasks done and 396 tasks left.
+It is 9th day. 9 AM and I'm in good mood. I'm studying right now. There is 309 tasks done and 391 tasks left.
+It is 9th day. 10 AM and I'm in good mood. I'm studying right now. There is 315 tasks done and 385 tasks left.
+It is 9th day. 11 AM and I'm in good mood. I'm studying right now. There is 319 tasks done and 381 tasks left.
+It is 9th day. 12 AM and I'm in good mood. I'm studying right now. There is 323 tasks done and 377 tasks left.
+It is 9th day. 1 PM and I'm in good mood. I'm studying right now. There is 327 tasks done and 373 tasks left.
+It is 9th day. 2 PM and I'm in good mood. I'm studying right now. There is 333 tasks done and 367 tasks left.
+It is 9th day. 3 PM and I'm in good mood. I'm eating right now. There is 333 tasks done and 367 tasks left.
+It is 9th day. 4 PM and I'm in good mood. I'm studying right now. There is 337 tasks done and 363 tasks left.
+Haha, good grade for test :)
+It is 9th day. 5 PM and I'm in good mood. I'm studying right now. There is 342 tasks done and 358 tasks left.
+It is 9th day. 6 PM and I'm in good mood. I'm studying right now. There is 346 tasks done and 354 tasks left.
+It is 9th day. 7 PM and I'm in good mood. I'm walking right now. There is 346 tasks done and 354 tasks left.
+It is 9th day. 8 PM and I'm in good mood. I'm walking right now. There is 346 tasks done and 354 tasks left.
+It is 9th day. 9 PM and I'm in good mood. It's time for family. right now. There is 346 tasks done and 354 tasks left.
+It is 9th day. 10 PM and I'm in good mood. I'm eating right now. There is 346 tasks done and 354 tasks left.
+It is 9th day. 11 PM and I'm in good mood. It's time for beer. right now. There is 346 tasks done and 354 tasks left.
+It is 9th day. 0 PM and I'm in good mood. It's time for beer. right now. There is 346 tasks done and 354 tasks left.
+Sweet dreams!
+It is 10th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 346 tasks done and 354 tasks left.
+It is 10th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 346 tasks done and 354 tasks left.
+It is 10th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 346 tasks done and 354 tasks left.
+It is 10th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 346 tasks done and 354 tasks left.
+It is 10th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 346 tasks done and 354 tasks left.
+It is 10th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 346 tasks done and 354 tasks left.
+It is 10th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 346 tasks done and 354 tasks left.
+It is 10th day. 8 AM and I'm in good mood. I'm eating right now. There is 346 tasks done and 354 tasks left.
+It is 10th day. 9 AM and I'm in good mood. I'm studying right now. There is 350 tasks done and 350 tasks left.
+Haha, good grade for test :)
+It is 10th day. 10 AM and I'm in good mood. I'm studying right now. There is 354 tasks done and 346 tasks left.
+It is 10th day. 11 AM and I'm in good mood. I'm studying right now. There is 358 tasks done and 342 tasks left.
+It is 10th day. 12 AM and I'm in good mood. I'm studying right now. There is 364 tasks done and 336 tasks left.
+It is 10th day. 1 PM and I'm in good mood. I'm studying right now. There is 367 tasks done and 333 tasks left.
+It is 10th day. 2 PM and I'm in good mood. I'm studying right now. There is 372 tasks done and 328 tasks left.
+It is 10th day. 3 PM and I'm in good mood. I'm eating right now. There is 372 tasks done and 328 tasks left.
+It is 10th day. 4 PM and I'm in good mood. I'm studying right now. There is 377 tasks done and 323 tasks left.
+It is 10th day. 5 PM and I'm in good mood. I'm studying right now. There is 383 tasks done and 317 tasks left.
+It is 10th day. 6 PM and I'm in good mood. I'm studying right now. There is 386 tasks done and 314 tasks left.
+It is 10th day. 7 PM and I'm in good mood. I'm walking right now. There is 386 tasks done and 314 tasks left.
+AIR ALERT!
+It is 10th day. 8 PM and I'm in bad mood. I'm hiding right now. There is 386 tasks done and 314 tasks left.
+Air alert ended!
+It is 10th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 386 tasks done and 314 tasks left.
+AIR ALERT!
+It is 10th day. 10 PM and I'm in bad mood. I'm hiding right now. There is 386 tasks done and 314 tasks left.
+Air alert ended!
+It is 10th day. 11 PM and I'm in bad mood. It's time for whiskey. right now. There is 386 tasks done and 314 tasks left.
+It is 10th day. 0 PM and I'm in bad mood. It's time for whiskey. right now. There is 386 tasks done and 314 tasks left.
+Sweet dreams!
+Haha, good grade for test :)
+It is 11th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 386 tasks done and 314 tasks left.
+It is 11th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 386 tasks done and 314 tasks left.
+It is 11th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 386 tasks done and 314 tasks left.
+It is 11th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 386 tasks done and 314 tasks left.
+It is 11th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 386 tasks done and 314 tasks left.
+It is 11th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 386 tasks done and 314 tasks left.
+AIR ALERT!
+It is 11th day. 7 AM and I'm in bad mood. I'm hiding right now. There is 386 tasks done and 314 tasks left.
+Air alert ended!
+It is 11th day. 8 AM and I'm in bad mood. I'm eating right now. There is 386 tasks done and 314 tasks left.
+It is 11th day. 9 AM and I'm in bad mood. I'm studying right now. There is 392 tasks done and 308 tasks left.
+It is 11th day. 10 AM and I'm in bad mood. I'm studying right now. There is 398 tasks done and 302 tasks left.
+It is 11th day. 11 AM and I'm in bad mood. I'm studying right now. There is 402 tasks done and 298 tasks left.
+It is 11th day. 12 AM and I'm in bad mood. I'm studying right now. There is 406 tasks done and 294 tasks left.
+It is 11th day. 1 PM and I'm in bad mood. I'm studying right now. There is 409 tasks done and 291 tasks left.
+It is 11th day. 2 PM and I'm in bad mood. I'm studying right now. There is 415 tasks done and 285 tasks left.
+It is 11th day. 3 PM and I'm in bad mood. I'm eating right now. There is 415 tasks done and 285 tasks left.
+It is 11th day. 4 PM and I'm in bad mood. I'm studying right now. There is 420 tasks done and 280 tasks left.
+It is 11th day. 5 PM and I'm in bad mood. I'm studying right now. There is 426 tasks done and 274 tasks left.
+It is 11th day. 6 PM and I'm in bad mood. I'm studying right now. There is 431 tasks done and 269 tasks left.
+It is 11th day. 7 PM and I'm in bad mood. I'm walking right now. There is 431 tasks done and 269 tasks left.
+It is 11th day. 8 PM and I'm in bad mood. I'm walking right now. There is 431 tasks done and 269 tasks left.
+It is 11th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 431 tasks done and 269 tasks left.
+It is 11th day. 10 PM and I'm in bad mood. I'm eating right now. There is 431 tasks done and 269 tasks left.
+It is 11th day. 11 PM and I'm in bad mood. It's time for whiskey. right now. There is 431 tasks done and 269 tasks left.
+It is 11th day. 0 PM and I'm in bad mood. It's time for whiskey. right now. There is 431 tasks done and 269 tasks left.
+Sweet dreams!
+AIR ALERT!
+It is 12th day. 1 AM and I'm in bad mood. I'm hiding right now. There is 431 tasks done and 269 tasks left.
+Air alert ended!
+It is 12th day. 2 AM and I'm in bad mood. I'm sleeping right now. There is 431 tasks done and 269 tasks left.
+It is 12th day. 3 AM and I'm in bad mood. I'm sleeping right now. There is 431 tasks done and 269 tasks left.
+It is 12th day. 4 AM and I'm in bad mood. I'm sleeping right now. There is 431 tasks done and 269 tasks left.
+It is 12th day. 5 AM and I'm in bad mood. I'm sleeping right now. There is 431 tasks done and 269 tasks left.
+It is 12th day. 6 AM and I'm in bad mood. I'm sleeping right now. There is 431 tasks done and 269 tasks left.
+It is 12th day. 7 AM and I'm in bad mood. I'm sleeping right now. There is 431 tasks done and 269 tasks left.
+Haha, good grade for test :)
+It is 12th day. 8 AM and I'm in good mood. I'm eating right now. There is 431 tasks done and 269 tasks left.
+It is 12th day. 9 AM and I'm in good mood. I'm studying right now. There is 436 tasks done and 264 tasks left.
+It is 12th day. 10 AM and I'm in good mood. I'm studying right now. There is 439 tasks done and 261 tasks left.
+It is 12th day. 11 AM and I'm in good mood. I'm studying right now. There is 443 tasks done and 257 tasks left.
+Haha, good grade for test :)
+It is 12th day. 12 AM and I'm in good mood. I'm studying right now. There is 446 tasks done and 254 tasks left.
+Haha, good grade for test :)
+It is 12th day. 1 PM and I'm in good mood. I'm studying right now. There is 449 tasks done and 251 tasks left.
+It is 12th day. 2 PM and I'm in good mood. I'm studying right now. There is 452 tasks done and 248 tasks left.
+It is 12th day. 3 PM and I'm in good mood. I'm eating right now. There is 452 tasks done and 248 tasks left.
+It is 12th day. 4 PM and I'm in good mood. I'm studying right now. There is 455 tasks done and 245 tasks left.
+It is 12th day. 5 PM and I'm in good mood. I'm studying right now. There is 461 tasks done and 239 tasks left.
+It is 12th day. 6 PM and I'm in good mood. I'm studying right now. There is 464 tasks done and 236 tasks left.
+It is 12th day. 7 PM and I'm in good mood. I'm walking right now. There is 464 tasks done and 236 tasks left.
+AIR ALERT!
+It is 12th day. 8 PM and I'm in bad mood. I'm hiding right now. There is 464 tasks done and 236 tasks left.
+Air alert ended!
+It is 12th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 464 tasks done and 236 tasks left.
+It is 12th day. 10 PM and I'm in bad mood. I'm eating right now. There is 464 tasks done and 236 tasks left.
+It is 12th day. 11 PM and I'm in bad mood. It's time for whiskey. right now. There is 464 tasks done and 236 tasks left.
+It is 12th day. 0 PM and I'm in bad mood. It's time for whiskey. right now. There is 464 tasks done and 236 tasks left.
+Sweet dreams!
+It is 13th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 464 tasks done and 236 tasks left.
+It is 13th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 464 tasks done and 236 tasks left.
+It is 13th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 464 tasks done and 236 tasks left.
+It is 13th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 464 tasks done and 236 tasks left.
+It is 13th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 464 tasks done and 236 tasks left.
+It is 13th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 464 tasks done and 236 tasks left.
+It is 13th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 464 tasks done and 236 tasks left.
+It is 13th day. 8 AM and I'm in good mood. I'm eating right now. There is 464 tasks done and 236 tasks left.
+It is 13th day. 9 AM and I'm in good mood. I'm studying right now. There is 467 tasks done and 233 tasks left.
+It is 13th day. 10 AM and I'm in good mood. I'm studying right now. There is 471 tasks done and 229 tasks left.
+It is 13th day. 11 AM and I'm in good mood. I'm studying right now. There is 474 tasks done and 226 tasks left.
+It is 13th day. 12 AM and I'm in good mood. I'm studying right now. There is 479 tasks done and 221 tasks left.
+It is 13th day. 1 PM and I'm in good mood. I'm studying right now. There is 483 tasks done and 217 tasks left.
+Oh, bad grade for test :( Delay because of the bad mood
+It is 13th day. 2 PM and I'm in bad mood. I'm studying right now. There is 481 tasks done and 219 tasks left.
+Haha, good grade for test :)
+It is 13th day. 3 PM and I'm in good mood. I'm eating right now. There is 481 tasks done and 219 tasks left.
+It is 13th day. 4 PM and I'm in good mood. I'm studying right now. There is 484 tasks done and 216 tasks left.
+It is 13th day. 5 PM and I'm in good mood. I'm studying right now. There is 488 tasks done and 212 tasks left.
+Haha, good grade for test :)
+It is 13th day. 6 PM and I'm in good mood. I'm studying right now. There is 491 tasks done and 209 tasks left.
+It is 13th day. 7 PM and I'm in good mood. I'm walking right now. There is 491 tasks done and 209 tasks left.
+It is 13th day. 8 PM and I'm in good mood. I'm walking right now. There is 491 tasks done and 209 tasks left.
+Haha, good grade for test :)
+It is 13th day. 9 PM and I'm in good mood. It's time for family. right now. There is 491 tasks done and 209 tasks left.
+It is 13th day. 10 PM and I'm in good mood. I'm eating right now. There is 491 tasks done and 209 tasks left.
+It is 13th day. 11 PM and I'm in good mood. It's time for beer. right now. There is 491 tasks done and 209 tasks left.
+It is 13th day. 0 PM and I'm in good mood. It's time for beer. right now. There is 491 tasks done and 209 tasks left.
+Sweet dreams!
+It is 14th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 491 tasks done and 209 tasks left.
+It is 14th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 491 tasks done and 209 tasks left.
+It is 14th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 491 tasks done and 209 tasks left.
+It is 14th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 491 tasks done and 209 tasks left.
+It is 14th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 491 tasks done and 209 tasks left.
+It is 14th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 491 tasks done and 209 tasks left.
+It is 14th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 491 tasks done and 209 tasks left.
+It is 14th day. 8 AM and I'm in good mood. I'm eating right now. There is 491 tasks done and 209 tasks left.
+It is 14th day. 9 AM and I'm in good mood. I'm studying right now. There is 495 tasks done and 205 tasks left.
+It is 14th day. 10 AM and I'm in good mood. I'm studying right now. There is 500 tasks done and 200 tasks left.
+It is 14th day. 11 AM and I'm in good mood. I'm studying right now. There is 506 tasks done and 194 tasks left.
+It is 14th day. 12 AM and I'm in good mood. I'm studying right now. There is 512 tasks done and 188 tasks left.
+Haha, good grade for test :)
+It is 14th day. 1 PM and I'm in good mood. I'm studying right now. There is 517 tasks done and 183 tasks left.
+Oh, bad grade for test :( Delay because of the bad mood
+It is 14th day. 2 PM and I'm in bad mood. I'm studying right now. There is 515 tasks done and 185 tasks left.
+It is 14th day. 3 PM and I'm in bad mood. I'm eating right now. There is 515 tasks done and 185 tasks left.
+Oh, bad grade for test :( Delay because of the bad mood
+It is 14th day. 4 PM and I'm in bad mood. I'm studying right now. There is 515 tasks done and 185 tasks left.
+It is 14th day. 5 PM and I'm in bad mood. I'm studying right now. There is 519 tasks done and 181 tasks left.
+It is 14th day. 6 PM and I'm in bad mood. I'm studying right now. There is 522 tasks done and 178 tasks left.
+It is 14th day. 7 PM and I'm in bad mood. I'm walking right now. There is 522 tasks done and 178 tasks left.
+It is 14th day. 8 PM and I'm in bad mood. I'm walking right now. There is 522 tasks done and 178 tasks left.
+It is 14th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 522 tasks done and 178 tasks left.
+It is 14th day. 10 PM and I'm in bad mood. I'm eating right now. There is 522 tasks done and 178 tasks left.
+It is 14th day. 11 PM and I'm in bad mood. It's time for whiskey. right now. There is 522 tasks done and 178 tasks left.
+It is 14th day. 0 PM and I'm in bad mood. It's time for whiskey. right now. There is 522 tasks done and 178 tasks left.
+Sweet dreams!
+Haha, good grade for test :)
+It is 15th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 522 tasks done and 178 tasks left.
+It is 15th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 522 tasks done and 178 tasks left.
+It is 15th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 522 tasks done and 178 tasks left.
+AIR ALERT!
+It is 15th day. 4 AM and I'm in bad mood. I'm hiding right now. There is 522 tasks done and 178 tasks left.
+It is 15th day. 5 AM and I'm in bad mood. I'm hiding right now. There is 522 tasks done and 178 tasks left.
+It is 15th day. 6 AM and I'm in bad mood. I'm hiding right now. There is 522 tasks done and 178 tasks left.
+Air alert ended!
+It is 15th day. 7 AM and I'm in bad mood. I'm sleeping right now. There is 522 tasks done and 178 tasks left.
+It is 15th day. 8 AM and I'm in bad mood. I'm eating right now. There is 522 tasks done and 178 tasks left.
+It is 15th day. 9 AM and I'm in bad mood. I'm studying right now. There is 526 tasks done and 174 tasks left.
+It is 15th day. 10 AM and I'm in bad mood. I'm studying right now. There is 530 tasks done and 170 tasks left.
+Haha, good grade for test :)
+It is 15th day. 11 AM and I'm in good mood. I'm studying right now. There is 534 tasks done and 166 tasks left.
+It is 15th day. 12 AM and I'm in good mood. I'm studying right now. There is 539 tasks done and 161 tasks left.
+It is 15th day. 1 PM and I'm in good mood. I'm studying right now. There is 545 tasks done and 155 tasks left.
+It is 15th day. 2 PM and I'm in good mood. I'm studying right now. There is 548 tasks done and 152 tasks left.
+It is 15th day. 3 PM and I'm in good mood. I'm eating right now. There is 548 tasks done and 152 tasks left.
+It is 15th day. 4 PM and I'm in good mood. I'm studying right now. There is 553 tasks done and 147 tasks left.
+It is 15th day. 5 PM and I'm in good mood. I'm studying right now. There is 559 tasks done and 141 tasks left.
+It is 15th day. 6 PM and I'm in good mood. I'm studying right now. There is 562 tasks done and 138 tasks left.
+It is 15th day. 7 PM and I'm in good mood. I'm walking right now. There is 562 tasks done and 138 tasks left.
+It is 15th day. 8 PM and I'm in good mood. I'm walking right now. There is 562 tasks done and 138 tasks left.
+It is 15th day. 9 PM and I'm in good mood. It's time for family. right now. There is 562 tasks done and 138 tasks left.
+It is 15th day. 10 PM and I'm in good mood. I'm eating right now. There is 562 tasks done and 138 tasks left.
+It is 15th day. 11 PM and I'm in good mood. It's time for beer. right now. There is 562 tasks done and 138 tasks left.
+It is 15th day. 0 PM and I'm in good mood. It's time for beer. right now. There is 562 tasks done and 138 tasks left.
+Sweet dreams!
+It is 16th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 562 tasks done and 138 tasks left.
+AIR ALERT!
+It is 16th day. 2 AM and I'm in bad mood. I'm hiding right now. There is 562 tasks done and 138 tasks left.
+Air alert ended!
+It is 16th day. 3 AM and I'm in bad mood. I'm sleeping right now. There is 562 tasks done and 138 tasks left.
+It is 16th day. 4 AM and I'm in bad mood. I'm sleeping right now. There is 562 tasks done and 138 tasks left.
+It is 16th day. 5 AM and I'm in bad mood. I'm sleeping right now. There is 562 tasks done and 138 tasks left.
+It is 16th day. 6 AM and I'm in bad mood. I'm sleeping right now. There is 562 tasks done and 138 tasks left.
+It is 16th day. 7 AM and I'm in bad mood. I'm sleeping right now. There is 562 tasks done and 138 tasks left.
+It is 16th day. 8 AM and I'm in bad mood. I'm eating right now. There is 562 tasks done and 138 tasks left.
+It is 16th day. 9 AM and I'm in bad mood. I'm studying right now. There is 568 tasks done and 132 tasks left.
+It is 16th day. 10 AM and I'm in bad mood. I'm studying right now. There is 574 tasks done and 126 tasks left.
+It is 16th day. 11 AM and I'm in bad mood. I'm studying right now. There is 577 tasks done and 123 tasks left.
+It is 16th day. 12 AM and I'm in bad mood. I'm studying right now. There is 583 tasks done and 117 tasks left.
+It is 16th day. 1 PM and I'm in bad mood. I'm studying right now. There is 589 tasks done and 111 tasks left.
+It is 16th day. 2 PM and I'm in bad mood. I'm studying right now. There is 592 tasks done and 108 tasks left.
+It is 16th day. 3 PM and I'm in bad mood. I'm eating right now. There is 592 tasks done and 108 tasks left.
+It is 16th day. 4 PM and I'm in bad mood. I'm studying right now. There is 595 tasks done and 105 tasks left.
+It is 16th day. 5 PM and I'm in bad mood. I'm studying right now. There is 600 tasks done and 100 tasks left.
+It is 16th day. 6 PM and I'm in bad mood. I'm studying right now. There is 603 tasks done and 97 tasks left.
+It is 16th day. 7 PM and I'm in bad mood. I'm walking right now. There is 603 tasks done and 97 tasks left.
+It is 16th day. 8 PM and I'm in bad mood. I'm walking right now. There is 603 tasks done and 97 tasks left.
+It is 16th day. 9 PM and I'm in bad mood. It's time for family. right now. There is 603 tasks done and 97 tasks left.
+It is 16th day. 10 PM and I'm in bad mood. I'm eating right now. There is 603 tasks done and 97 tasks left.
+It is 16th day. 11 PM and I'm in bad mood. It's time for whiskey. right now. There is 603 tasks done and 97 tasks left.
+It is 16th day. 0 PM and I'm in bad mood. It's time for whiskey. right now. There is 603 tasks done and 97 tasks left.
+Sweet dreams!
+It is 17th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 603 tasks done and 97 tasks left.
+It is 17th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 603 tasks done and 97 tasks left.
+It is 17th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 603 tasks done and 97 tasks left.
+It is 17th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 603 tasks done and 97 tasks left.
+It is 17th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 603 tasks done and 97 tasks left.
+It is 17th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 603 tasks done and 97 tasks left.
+It is 17th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 603 tasks done and 97 tasks left.
+Haha, good grade for test :)
+It is 17th day. 8 AM and I'm in good mood. I'm eating right now. There is 603 tasks done and 97 tasks left.
+It is 17th day. 9 AM and I'm in good mood. I'm studying right now. There is 606 tasks done and 94 tasks left.
+It is 17th day. 10 AM and I'm in good mood. I'm studying right now. There is 610 tasks done and 90 tasks left.
+It is 17th day. 11 AM and I'm in good mood. I'm studying right now. There is 614 tasks done and 86 tasks left.
+Haha, good grade for test :)
+It is 17th day. 12 AM and I'm in good mood. I'm studying right now. There is 619 tasks done and 81 tasks left.
+It is 17th day. 1 PM and I'm in good mood. I'm studying right now. There is 625 tasks done and 75 tasks left.
+It is 17th day. 2 PM and I'm in good mood. I'm studying right now. There is 628 tasks done and 72 tasks left.
+It is 17th day. 3 PM and I'm in good mood. I'm eating right now. There is 628 tasks done and 72 tasks left.
+It is 17th day. 4 PM and I'm in good mood. I'm studying right now. There is 632 tasks done and 68 tasks left.
+It is 17th day. 5 PM and I'm in good mood. I'm studying right now. There is 636 tasks done and 64 tasks left.
+It is 17th day. 6 PM and I'm in good mood. I'm studying right now. There is 642 tasks done and 58 tasks left.
+It is 17th day. 7 PM and I'm in good mood. I'm walking right now. There is 642 tasks done and 58 tasks left.
+It is 17th day. 8 PM and I'm in good mood. I'm walking right now. There is 642 tasks done and 58 tasks left.
+It is 17th day. 9 PM and I'm in good mood. It's time for family. right now. There is 642 tasks done and 58 tasks left.
+It is 17th day. 10 PM and I'm in good mood. I'm eating right now. There is 642 tasks done and 58 tasks left.
+It is 17th day. 11 PM and I'm in good mood. It's time for beer. right now. There is 642 tasks done and 58 tasks left.
+It is 17th day. 0 PM and I'm in good mood. It's time for beer. right now. There is 642 tasks done and 58 tasks left.
+Sweet dreams!
+AIR ALERT!
+It is 18th day. 1 AM and I'm in bad mood. I'm hiding right now. There is 642 tasks done and 58 tasks left.
+It is 18th day. 2 AM and I'm in bad mood. I'm hiding right now. There is 642 tasks done and 58 tasks left.
+Air alert ended!
+It is 18th day. 3 AM and I'm in bad mood. I'm sleeping right now. There is 642 tasks done and 58 tasks left.
+It is 18th day. 4 AM and I'm in bad mood. I'm sleeping right now. There is 642 tasks done and 58 tasks left.
+It is 18th day. 5 AM and I'm in bad mood. I'm sleeping right now. There is 642 tasks done and 58 tasks left.
+It is 18th day. 6 AM and I'm in bad mood. I'm sleeping right now. There is 642 tasks done and 58 tasks left.
+It is 18th day. 7 AM and I'm in bad mood. I'm sleeping right now. There is 642 tasks done and 58 tasks left.
+It is 18th day. 8 AM and I'm in bad mood. I'm eating right now. There is 642 tasks done and 58 tasks left.
+It is 18th day. 9 AM and I'm in bad mood. I'm studying right now. There is 648 tasks done and 52 tasks left.
+It is 18th day. 10 AM and I'm in bad mood. I'm studying right now. There is 652 tasks done and 48 tasks left.
+It is 18th day. 11 AM and I'm in bad mood. I'm studying right now. There is 658 tasks done and 42 tasks left.
+It is 18th day. 12 AM and I'm in bad mood. I'm studying right now. There is 662 tasks done and 38 tasks left.
+Haha, good grade for test :)
+It is 18th day. 1 PM and I'm in good mood. I'm studying right now. There is 665 tasks done and 35 tasks left.
+It is 18th day. 2 PM and I'm in good mood. I'm studying right now. There is 668 tasks done and 32 tasks left.
+It is 18th day. 3 PM and I'm in good mood. I'm eating right now. There is 668 tasks done and 32 tasks left.
+It is 18th day. 4 PM and I'm in good mood. I'm studying right now. There is 671 tasks done and 29 tasks left.
+It is 18th day. 5 PM and I'm in good mood. I'm studying right now. There is 677 tasks done and 23 tasks left.
+It is 18th day. 6 PM and I'm in good mood. I'm studying right now. There is 683 tasks done and 17 tasks left.
+It is 18th day. 7 PM and I'm in good mood. I'm walking right now. There is 683 tasks done and 17 tasks left.
+It is 18th day. 8 PM and I'm in good mood. I'm walking right now. There is 683 tasks done and 17 tasks left.
+AIR ALERT!
+It is 18th day. 9 PM and I'm in bad mood. I'm hiding right now. There is 683 tasks done and 17 tasks left.
+Air alert ended!
+It is 18th day. 10 PM and I'm in bad mood. I'm eating right now. There is 683 tasks done and 17 tasks left.
+It is 18th day. 11 PM and I'm in bad mood. It's time for whiskey. right now. There is 683 tasks done and 17 tasks left.
+It is 18th day. 0 PM and I'm in bad mood. It's time for whiskey. right now. There is 683 tasks done and 17 tasks left.
+Sweet dreams!
+Haha, good grade for test :)
+It is 19th day. 1 AM and I'm in good mood. I'm sleeping right now. There is 683 tasks done and 17 tasks left.
+It is 19th day. 2 AM and I'm in good mood. I'm sleeping right now. There is 683 tasks done and 17 tasks left.
+It is 19th day. 3 AM and I'm in good mood. I'm sleeping right now. There is 683 tasks done and 17 tasks left.
+It is 19th day. 4 AM and I'm in good mood. I'm sleeping right now. There is 683 tasks done and 17 tasks left.
+It is 19th day. 5 AM and I'm in good mood. I'm sleeping right now. There is 683 tasks done and 17 tasks left.
+It is 19th day. 6 AM and I'm in good mood. I'm sleeping right now. There is 683 tasks done and 17 tasks left.
+It is 19th day. 7 AM and I'm in good mood. I'm sleeping right now. There is 683 tasks done and 17 tasks left.
+It is 19th day. 8 AM and I'm in good mood. I'm eating right now. There is 683 tasks done and 17 tasks left.
+It is 19th day. 9 AM and I'm in good mood. I'm studying right now. There is 687 tasks done and 13 tasks left.
+It is 19th day. 10 AM and I'm in good mood. I'm studying right now. There is 693 tasks done and 7 tasks left.
+It is 19th day. 11 AM and I'm in good mood. I'm studying right now. There is 697 tasks done and 3 tasks left.
+
+Task completed successfully
